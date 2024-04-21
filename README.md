@@ -31,3 +31,15 @@ To run this project locally, follow these steps:
    cd QuizME
 
 3. Launch the app by opening the ```index.html``` file in your preferred web browser.
+
+## Contributions
+
+Contributions to this Quiz Web App are welcome! If you have any improvements or feature suggestions, feel free to open an issue or submit a pull request. Please make sure to follow the existing code style and guidelines.
+
+## License
+
+This project is licensed under the [MIT License](https://github.com/Alok-2002/Quizzify/blob/main/LICENSE). Feel free to use and modify the code according to the terms of this license.
+
+## Acknowledgements
+
+* Special thanks to the developers and contributors of this project.
