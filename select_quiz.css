@@ -139,7 +139,7 @@ html {
 
   .form_buttons{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     margin-top: 100px;
   }
   .form_main button{
@@ -155,6 +155,8 @@ html {
       -o-border-radius: 20px;
       color: white;
       background-color: #0087EB;
+      box-shadow: #0087EB;
+      border-color: #0087EB;
       margin-bottom: 100px;
   
   }
