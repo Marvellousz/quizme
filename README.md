@@ -38,7 +38,7 @@ Contributions to this Quiz Web App are welcome! If you have any improvements or 
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/Alok-2002/Quizzify/blob/main/LICENSE). Feel free to use and modify the code according to the terms of this license.
+This project is licensed under the [MIT License](https://github.com/PranavMurali-Coder/QuizMe/blob/main/LICENSE). Feel free to use and modify the code according to the terms of this license.
 
 ## Acknowledgements
 
