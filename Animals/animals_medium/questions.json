@@ -1,0 +1,451 @@
+
+[
+    {
+        "question": "Which animal is known for its ability to change its skin color?",
+        "choice1": "Chameleon",
+        "choice2": "Elephant",
+        "choice3": "Giraffe",
+        "choice4": "Lion",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's largest land carnivore?",
+        "choice1": "Lion",
+        "choice2": "Tiger",
+        "choice3": "Polar Bear",
+        "choice4": "Grizzly Bear",
+        "answer": 3
+    },
+    {
+        "question": "Which bird is known for its ability to imitate human speech?",
+        "choice1": "Parrot",
+        "choice2": "Eagle",
+        "choice3": "Ostrich",
+        "choice4": "Penguin",
+        "answer": 1
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "choice1": "Cheetah",
+        "choice2": "Lion",
+        "choice3": "Gazelle",
+        "choice4": "Leopard",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its long neck?",
+        "choice1": "Giraffe",
+        "choice2": "Elephant",
+        "choice3": "Hippo",
+        "choice4": "Zebra",
+        "answer": 1
+    },
+    {
+        "question": "What is the only flying mammal?",
+        "choice1": "Bat",
+        "choice2": "Flying Squirrel",
+        "choice3": "Flying Fox",
+        "choice4": "Pteropus",
+        "answer": 1
+    },
+    {
+        "question": "Which reptile is known for its ability to regenerate its tail?",
+        "choice1": "Iguana",
+        "choice2": "Chameleon",
+        "choice3": "Gecko",
+        "choice4": "Lizard",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "choice1": "Ostrich",
+        "choice2": "Eagle",
+        "choice3": "Penguin",
+        "choice4": "Albatross",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the best sense of smell?",
+        "choice1": "Dog",
+        "choice2": "Cat",
+        "choice3": "Elephant",
+        "choice4": "Rat",
+        "answer": 1
+    },
+    {
+        "question": "What is the fastest marine animal?",
+        "choice1": "Sailfish",
+        "choice2": "Dolphin",
+        "choice3": "Tuna",
+        "choice4": "Shark",
+        "answer": 1
+    },
+    {
+        "question": "Which mammal is known as the 'Gentle Giant'?",
+        "choice1": "Hippo",
+        "choice2": "Giraffe",
+        "choice3": "Elephant",
+        "choice4": "Rhinoceros",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest living reptile?",
+        "choice1": "Alligator",
+        "choice2": "Crocodile",
+        "choice3": "Iguana",
+        "choice4": "Komodo Dragon",
+        "answer": 2
+    },
+    {
+        "question": "Which bird is known as the 'King of Birds'?",
+        "choice1": "Eagle",
+        "choice2": "Hawk",
+        "choice3": "Owl",
+        "choice4": "Condor",
+        "answer": 4
+    },
+    {
+        "question": "What is the largest living marsupial?",
+        "choice1": "Kangaroo",
+        "choice2": "Koala",
+        "choice3": "Wombat",
+        "choice4": "Tasmanian Devil",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the longest lifespan?",
+        "choice1": "Tortoise",
+        "choice2": "Elephant",
+        "choice3": "Whale",
+        "choice4": "Parrot",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living cat species?",
+        "choice1": "Tiger",
+        "choice2": "Lion",
+        "choice3": "Leopard",
+        "choice4": "Cheetah",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its unique black and white stripes?",
+        "choice1": "Zebra",
+        "choice2": "Tiger",
+        "choice3": "Giraffe",
+        "choice4": "Leopard",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living primate?",
+        "choice1": "Chimpanzee",
+        "choice2": "Orangutan",
+        "choice3": "Gorilla",
+        "choice4": "Human",
+        "answer": 3
+    },
+    {
+        "question": "Which mammal is known for its ability to roll into a ball for defense?",
+        "choice1": "Armadillo",
+        "choice2": "Pangolin",
+        "choice3": "Hedgehog",
+        "choice4": "Porcupine",
+        "answer": 3
+    },
+    {
+        "question": "What is the fastest bird on foot?",
+        "choice1": "Ostrich",
+        "choice2": "Emu",
+        "choice3": "Cassowary",
+        "choice4": "Roadrunner",
+        "answer": 4
+    },
+    {
+        "question": "Which animal is known for its ability to camouflage itself?",
+        "choice1": "Cuttlefish",
+        "choice2": "Octopus",
+        "choice3": "Squid",
+        "choice4": "Jellyfish",
+        "answer": 1
+    },
+    {
+        "question": "What is the smallest mammal?",
+        "choice1": "Mouse",
+        "choice2": "Bat",
+        "choice3": "Shrew",
+        "choice4": "Mole",
+        "answer": 2
+    },
+    {
+        "question": "Which animal has the largest eyes relative to its body size?",
+        "choice1": "Chameleon",
+        "choice2": "Ostrich",
+        "choice3": "Gecko",
+        "choice4": "Colossal Squid",
+        "answer": 4
+    },
+    {
+        "question": "What is the fastest fish in the ocean?",
+        "choice1": "Tuna",
+        "choice2": "Sailfish",
+        "choice3": "Shark",
+        "choice4": "Marlin",
+        "answer": 2
+    },
+    {
+        "question": "Which mammal has the longest tongue relative to its body size?",
+        "choice1": "Chameleon",
+        "choice2": "Anteater",
+        "choice3": "Giraffe",
+        "choice4": "Blue Whale",
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest living bird?",
+        "choice1": "Bee Hummingbird",
+        "choice2": "Goldcrest",
+        "choice3": "Elf Owl",
+        "choice4": "Bee Eater",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the longest migration?",
+        "choice1": "Monarch Butterfly",
+        "choice2": "Arctic Tern",
+        "choice3": "Caribou",
+        "choice4": "Salmon",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest living amphibian?",
+        "choice1": "Bullfrog",
+        "choice2": "Giant Salamander",
+        "choice3": "Toad",
+        "choice4": "Frog",
+        "answer": 2
+    },
+    {
+        "question": "Which mammal has the largest brain relative to its body size?",
+        "choice1": "Human",
+        "choice2": "Elephant",
+        "choice3": "Dolphin",
+        "choice4": "Whale",
+        "answer": 3
+    },
+    {
+        "question": "What is the fastest reptile on land?",
+        "choice1": "Green Iguana",
+        "choice2": "Komodo Dragon",
+        "choice3": "Leopard Gecko",
+        "choice4": "Gila Monster",
+        "answer": 3
+    },
+    {
+        "question": "Which animal is known as the 'King of the Jungle'?",
+        "choice1": "Lion",
+        "choice2": "Tiger",
+        "choice3": "Leopard",
+        "choice4": "Jaguar",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial carnivore?",
+        "choice1": "Kangaroo",
+        "choice2": "Tasmanian Devil",
+        "choice3": "Koala",
+        "choice4": "Wombat",
+        "answer": 2
+    },
+    {
+        "question": "Which bird is known as the 'Ghost of the Forest'?",
+        "choice1": "Snowy Owl",
+        "choice2": "Barn Owl",
+        "choice3": "Great Gray Owl",
+        "choice4": "Tawny Owl",
+        "answer": 3
+    },
+    {
+        "question": "What is the only venomous mammal?",
+        "choice1": "Platypus",
+        "choice2": "Mongoose",
+        "choice3": "Solenodon",
+        "choice4": "Shrew",
+        "answer": 1
+    },
+    {
+        "question": "Which reptile is known for its ability to squirt blood from its eyes when threatened?",
+        "choice1": "Gila Monster",
+        "choice2": "Komodo Dragon",
+        "choice3": "Frilled Lizard",
+        "choice4": "Texas Horned Lizard",
+        "answer": 4
+    },
+    {
+        "question": "What is the largest living rodent?",
+        "choice1": "Beaver",
+        "choice2": "Capybara",
+        "choice3": "Porcupine",
+        "choice4": "Nutria",
+        "answer": 2
+    },
+    {
+        "question": "Which mammal has the most teeth?",
+        "choice1": "Dolphin",
+        "choice2": "Hippo",
+        "choice3": "Shark",
+        "choice4": "Armadillo",
+        "answer": 3
+    },
+    {
+        "question": "What is the only marsupial found outside of Australia?",
+        "choice1": "Kangaroo",
+        "choice2": "Wombat",
+        "choice3": "Opossum",
+        "choice4": "Koala",
+        "answer": 3
+    },
+    {
+        "question": "Which animal has the fastest metabolism?",
+        "choice1": "Shrew",
+        "choice2": "Hummingbird",
+        "choice3": "Elephant",
+        "choice4": "Blue Whale",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial carnivore?",
+        "choice1": "Kangaroo",
+        "choice2": "Tasmanian Devil",
+        "choice3": "Koala",
+        "choice4": "Wombat",
+        "answer": 2
+    },
+    {
+        "question": "Which mammal is known as the 'Vampire of the Animal Kingdom'?",
+        "choice1": "Vampire Bat",
+        "choice2": "Vampire Squid",
+        "choice3": "Vampire Finch",
+        "choice4": "Vampire Shrimp",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial?",
+        "choice1": "Kangaroo",
+        "choice2": "Koala",
+        "choice3": "Wombat",
+        "choice4": "Tasmanian Devil",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its ability to survive without water?",
+        "choice1": "Camel",
+        "choice2": "Armadillo",
+        "choice3": "Polar Bear",
+        "choice4": "Elephant",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial carnivore?",
+        "choice1": "Kangaroo",
+        "choice2": "Tasmanian Devil",
+        "choice3": "Koala",
+        "choice4": "Wombat",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known for its ability to mimic the sound of chainsaws?",
+        "choice1": "Mockingbird",
+        "choice2": "Lyrebird",
+        "choice3": "Parrot",
+        "choice4": "Whip-poor-will",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest living species of amphibian?",
+        "choice1": "Goliath Frog",
+        "choice2": "Japanese Giant Salamander",
+        "choice3": "Axolotl",
+        "choice4": "Hellbender",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known for its ability to camouflage itself?",
+        "choice1": "Chameleon",
+        "choice2": "Octopus",
+        "choice3": "Cuttlefish",
+        "choice4": "Anole",
+        "answer": 3
+    },
+    {
+        "question": "What is the only bird capable of hovering in place?",
+        "choice1": "Hummingbird",
+        "choice2": "Sparrow",
+        "choice3": "Swallow",
+        "choice4": "Blue Jay",
+        "answer": 1
+    },
+    {
+        "question": "Which mammal is known for its ability to camouflage itself in snow?",
+        "choice1": "Polar Bear",
+        "choice2": "Arctic Fox",
+        "choice3": "Snow Leopard",
+        "choice4": "Arctic Hare",
+        "answer": 4
+    },
+    {
+        "question": "What is the largest living bird of prey?",
+        "choice1": "Andean Condor",
+        "choice2": "Steller's Sea Eagle",
+        "choice3": "Harpy Eagle",
+        "choice4": "Cinereous Vulture",
+        "answer": 3
+    },
+    {
+        "question": "Which insect is known for its ability to mimic the appearance of leaves?",
+        "choice1": "Praying Mantis",
+        "choice2": "Walking Stick",
+        "choice3": "Leaf Beetle",
+        "choice4": "Caterpillar",
+        "answer": 2
+    },
+    {
+        "question": "What is the smallest living primate?",
+        "choice1": "Mouse Lemur",
+        "choice2": "Tarsier",
+        "choice3": "Pygmy Marmoset",
+        "choice4": "Dwarf Galago",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the longest lifespan relative to its size?",
+        "choice1": "Giant Tortoise",
+        "choice2": "Bowhead Whale",
+        "choice3": "Red Sea Urchin",
+        "choice4": "Naked Mole Rat",
+        "answer": 4
+    },
+    {
+        "question": "What is the only species of bear found exclusively in South America?",
+        "choice1": "Spectacled Bear",
+        "choice2": "Sun Bear",
+        "choice3": "Andean Bear",
+        "choice4": "Polar Bear",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its ability to change its color to match its surroundings?",
+        "choice1": "Cuttlefish",
+        "choice2": "Chameleon",
+        "choice3": "Octopus",
+        "choice4": "Squid",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living species of kangaroo?",
+        "choice1": "Red Kangaroo",
+        "choice2": "Eastern Grey Kangaroo",
+        "choice3": "Western Grey Kangaroo",
+        "choice4": "Giant Kangaroo",
+        "answer": 1
+    }
+]

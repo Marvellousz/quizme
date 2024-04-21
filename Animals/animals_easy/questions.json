@@ -1,0 +1,349 @@
+
+[
+    {
+        "question": "What is the largest mammal in the world?",
+        "choice1": "Elephant",
+        "choice2": "Blue Whale",
+        "choice3": "Giraffe",
+        "choice4": "Hippopotamus",
+        "answer": 2
+    },
+    {
+        "question": "What animal is known as the 'King of the Jungle'?",
+        "choice1": "Lion",
+        "choice2": "Tiger",
+        "choice3": "Elephant",
+        "choice4": "Gorilla",
+        "answer": 1
+    },
+    {
+        "question": "Which bird is known for its ability to mimic human speech?",
+        "choice1": "Parrot",
+        "choice2": "Penguin",
+        "choice3": "Ostrich",
+        "choice4": "Eagle",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest land animal?",
+        "choice1": "Elephant",
+        "choice2": "Rhinoceros",
+        "choice3": "Giraffe",
+        "choice4": "Hippo",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its black and white stripes?",
+        "choice1": "Tiger",
+        "choice2": "Zebra",
+        "choice3": "Giraffe",
+        "choice4": "Leopard",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest living reptile?",
+        "choice1": "Komodo Dragon",
+        "choice2": "Green Anaconda",
+        "choice3": "Saltwater Crocodile",
+        "choice4": "Alligator",
+        "answer": 3
+    },
+    {
+        "question": "Which animal has the longest neck?",
+        "choice1": "Giraffe",
+        "choice2": "Elephant",
+        "choice3": "Zebra",
+        "choice4": "Hippo",
+        "answer": 1
+    },
+    {
+        "question": "What is the fastest land animal?",
+        "choice1": "Cheetah",
+        "choice2": "Lion",
+        "choice3": "Leopard",
+        "choice4": "Gazelle",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the best sense of smell?",
+        "choice1": "Dog",
+        "choice2": "Cat",
+        "choice3": "Elephant",
+        "choice4": "Rat",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest bird in the world?",
+        "choice1": "Ostrich",
+        "choice2": "Penguin",
+        "choice3": "Eagle",
+        "choice4": "Hawk",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known as the 'Ship of the Desert'?",
+        "choice1": "Camel",
+        "choice2": "Elephant",
+        "choice3": "Horse",
+        "choice4": "Donkey",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest cat species?",
+        "choice1": "Lion",
+        "choice2": "Tiger",
+        "choice3": "Leopard",
+        "choice4": "Cheetah",
+        "answer": 2
+    },
+    {
+        "question": "Which bird is a symbol of peace?",
+        "choice1": "Dove",
+        "choice2": "Eagle",
+        "choice3": "Crow",
+        "choice4": "Owl",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living fish species?",
+        "choice1": "Great White Shark",
+        "choice2": "Whale Shark",
+        "choice3": "Manta Ray",
+        "choice4": "Giant Squid",
+        "answer": 2
+    },
+    {
+        "question": "Which animal has the longest lifespan?",
+        "choice1": "Tortoise",
+        "choice2": "Elephant",
+        "choice3": "Whale",
+        "choice4": "Parrot",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living primate?",
+        "choice1": "Chimpanzee",
+        "choice2": "Orangutan",
+        "choice3": "Gorilla",
+        "choice4": "Human",
+        "answer": 3
+    },
+    {
+        "question": "Which animal can change its color to match its surroundings?",
+        "choice1": "Chameleon",
+        "choice2": "Gecko",
+        "choice3": "Lizard",
+        "choice4": "Iguana",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest rodent in the world?",
+        "choice1": "Beaver",
+        "choice2": "Giant Panda",
+        "choice3": "Kangaroo Rat",
+        "choice4": "Capybara",
+        "answer": 4
+    },
+    {
+        "question": "Which animal is known for sleeping up to 22 hours a day?",
+        "choice1": "Sloth",
+        "choice2": "Koala",
+        "choice3": "Panda",
+        "choice4": "Lion",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial?",
+        "choice1": "Kangaroo",
+        "choice2": "Koala",
+        "choice3": "Wombat",
+        "choice4": "Tasmanian Devil",
+        "answer": 1
+    },
+    {
+        "question": "Which animal has the longest tongue relative to its body size?",
+        "choice1": "Giraffe",
+        "choice2": "Chameleon",
+        "choice3": "Anteater",
+        "choice4": "Frog",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest land-dwelling arthropod?",
+        "choice1": "Spider",
+        "choice2": "Scorpion",
+        "choice3": "Crab",
+        "choice4": "Beetle",
+        "answer": 3
+    },
+    {
+        "question": "Which animal can run the fastest?",
+        "choice1": "Lion",
+        "choice2": "Gazelle",
+        "choice3": "Cheetah",
+        "choice4": "Antelope",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest living species of turtle?",
+        "choice1": "Leatherback Sea Turtle",
+        "choice2": "Green Sea Turtle",
+        "choice3": "Hawksbill Sea Turtle",
+        "choice4": "Loggerhead Sea Turtle",
+        "answer":
+
+ 1
+    },
+    {
+        "question": "Which animal has the best eyesight?",
+        "choice1": "Eagle",
+        "choice2": "Hawk",
+        "choice3": "Owl",
+        "choice4": "Falcon",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living lizard?",
+        "choice1": "Monitor Lizard",
+        "choice2": "Komodo Dragon",
+        "choice3": "Iguana",
+        "choice4": "Gecko",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known as the 'Gentle Giant'?",
+        "choice1": "Hippo",
+        "choice2": "Elephant",
+        "choice3": "Rhino",
+        "choice4": "Giraffe",
+        "answer": 2
+    },
+    {
+        "question": "What is the fastest marine animal?",
+        "choice1": "Sailfish",
+        "choice2": "Blue Whale",
+        "choice3": "Dolphin",
+        "choice4": "Shark",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its long, sticky tongue used for catching insects?",
+        "choice1": "Anteater",
+        "choice2": "Armadillo",
+        "choice3": "Aardvark",
+        "choice4": "Hedgehog",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living bird of prey?",
+        "choice1": "Golden Eagle",
+        "choice2": "Bald Eagle",
+        "choice3": "Harpy Eagle",
+        "choice4": "Andean Condor",
+        "answer": 3
+    },
+    {
+        "question": "Which animal is known for its ability to regrow its lost limbs?",
+        "choice1": "Starfish",
+        "choice2": "Lizard",
+        "choice3": "Frog",
+        "choice4": "Salamander",
+        "answer": 4
+    },
+    {
+        "question": "What is the largest living species of fish?",
+        "choice1": "Great White Shark",
+        "choice2": "Whale Shark",
+        "choice3": "Manta Ray",
+        "choice4": "Giant Squid",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known as the 'King of the Savannah'?",
+        "choice1": "Lion",
+        "choice2": "Leopard",
+        "choice3": "Giraffe",
+        "choice4": "Elephant",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living marsupial carnivore?",
+        "choice1": "Kangaroo",
+        "choice2": "Tasmanian Devil",
+        "choice3": "Koala",
+        "choice4": "Wombat",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known for its hump and ability to store water?",
+        "choice1": "Zebra",
+        "choice2": "Giraffe",
+        "choice3": "Camel",
+        "choice4": "Elephant",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest living species of cat?",
+        "choice1": "Lion",
+        "choice2": "Tiger",
+        "choice3": "Leopard",
+        "choice4": "Cheetah",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known for its elaborate courtship dance?",
+        "choice1": "Peacock",
+        "choice2": "Parrot",
+        "choice3": "Penguin",
+        "choice4": "Ostrich",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest living primate?",
+        "choice1": "Chimpanzee",
+        "choice2": "Orangutan",
+        "choice3": "Gorilla",
+        "choice4": "Human",
+        "answer": 3
+    },
+    {
+        "question": "Which animal is known for its prehensile tail?",
+        "choice1": "Kangaroo",
+        "choice2": "Chimpanzee",
+        "choice3": "Gorilla",
+        "choice4": "Spider Monkey",
+        "answer": 4
+    },
+    {
+        "question": "What is the largest living species of kangaroo?",
+        "choice1": "Red Kangaroo",
+        "choice2": "Eastern Grey Kangaroo",
+        "choice3": "Western Grey Kangaroo",
+        "choice4": "Giant Kangaroo",
+        "answer": 1
+    },
+    {
+        "question": "Which animal is known for its ability to roll into a ball for defense?",
+        "choice1": "Armadillo",
+        "choice2": "Porcupine",
+        "choice3": "Hedgehog",
+        "choice4": "Tortoise",
+        "answer": 3
+    },
+    {
+        "question": "What is the smallest mammal in the world?",
+        "choice1": "Elephant Shrew",
+        "choice2": "Bumblebee Bat",
+        "choice3": "Pygmy Marmoset",
+        "choice4": "Etruscan Shrew",
+        "answer": 2
+    },
+    {
+        "question": "Which animal is known for its ability to camouflauge itself?",
+        "choice1": "Chameleon",
+        "choice2": "Leopard",
+        "choice3": "Cheetah",
+        "choice4": "Lion",
+        "answer": 1
+    }
+]

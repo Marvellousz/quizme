@@ -1,0 +1,355 @@
+
+[
+    {
+        "question": "What is the capital of France?",
+        "choice1": "Paris",
+        "choice2": "Berlin",
+        "choice3": "London",
+        "choice4": "Madrid",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Italy?",
+        "choice1": "Rome",
+        "choice2": "Madrid",
+        "choice3": "Paris",
+        "choice4": "Athens",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "choice1": "Japan",
+        "choice2": "China",
+        "choice3": "South Korea",
+        "choice4": "Vietnam",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest country in the world by land area?",
+        "choice1": "Russia",
+        "choice2": "Canada",
+        "choice3": "China",
+        "choice4": "United States",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Spain?",
+        "choice1": "Madrid",
+        "choice2": "Barcelona",
+        "choice3": "Rome",
+        "choice4": "Lisbon",
+        "answer": 1
+    },
+    {
+        "question": "What is the longest river in the world?",
+        "choice1": "Nile",
+        "choice2": "Amazon",
+        "choice3": "Yangtze",
+        "choice4": "Mississippi",
+        "answer": 1
+    },
+    {
+        "question": "Which continent is the largest by land area?",
+        "choice1": "Asia",
+        "choice2": "Africa",
+        "choice3": "North America",
+        "choice4": "Europe",
+        "answer": 1
+    },
+    {
+        "question": "Which ocean is the largest?",
+        "choice1": "Pacific Ocean",
+        "choice2": "Atlantic Ocean",
+        "choice3": "Indian Ocean",
+        "choice4": "Arctic Ocean",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Brazil?",
+        "choice1": "Brasília",
+        "choice2": "Rio de Janeiro",
+        "choice3": "São Paulo",
+        "choice4": "Buenos Aires",
+        "answer": 1
+    },
+    {
+        "question": "Which is the smallest continent?",
+        "choice1": "Australia",
+        "choice2": "Antarctica",
+        "choice3": "Europe",
+        "choice4": "Asia",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Canada?",
+        "choice1": "Ottawa",
+        "choice2": "Toronto",
+        "choice3": "Montreal",
+        "choice4": "Vancouver",
+        "answer": 1
+    },
+    {
+        "question": "What is the highest mountain in the world?",
+        "choice1": "Mount Everest",
+        "choice2": "K2",
+        "choice3": "Kangchenjunga",
+        "choice4": "Lhotse",
+        "answer": 1
+    },
+    {
+        "question": "Which desert is the largest in the world?",
+        "choice1": "Sahara Desert",
+        "choice2": "Arabian Desert",
+        "choice3": "Gobi Desert",
+        "choice4": "Kalahari Desert",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "choice1": "Canberra",
+        "choice2": "Sydney",
+        "choice3": "Melbourne",
+        "choice4": "Perth",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of China?",
+        "choice1": "Beijing",
+        "choice2": "Shanghai",
+        "choice3": "Guangzhou",
+        "choice4": "Hong Kong",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of a Thousand Lakes?",
+        "choice1": "Finland",
+        "choice2": "Sweden",
+        "choice3": "Norway",
+        "choice4": "Denmark",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest island in the world?",
+        "choice1": "Greenland",
+        "choice2": "Madagascar",
+        "choice3": "Borneo",
+        "choice4": "Honshu",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of South Africa?",
+        "choice1": "Pretoria",
+        "choice2": "Cape Town",
+        "choice3": "Johannesburg",
+        "choice4": "Durban",
+        "answer": 1
+    },
+    {
+        "question": "Which country is located in both Europe and Asia?",
+        "choice1": "Russia",
+        "choice2": "Turkey",
+        "choice3": "Kazakhstan",
+        "choice4": "Azerbaijan",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Egypt?",
+        "choice1": "Cairo",
+        "choice2": "Alexandria",
+        "choice3": "Luxor",
+        "choice4": "Giza",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest lake in Africa?",
+        "choice1": "Lake Victoria",
+        "choice2": "Lake Tanganyika",
+        "choice3": "Lake Malawi",
+        "choice4": "Lake Chad",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Germany?",
+        "choice1": "Berlin",
+        "choice2": "Munich",
+        "choice3": "Frankfurt",
+        "choice4": "Hamburg",
+        "answer": 1
+    },
+    {
+        "question": "Which river is the longest in Europe?",
+        "choice1": "Volga",
+        "choice2": "Danube",
+        "choice3": "Rhine",
+        "choice4": "Thames",
+        "answer": 1
+    },
+    {
+        "question": "What is the smallest country in the world by land area?",
+        "choice1": "Vatican City",
+        "choice2": "Monaco",
+        "choice3": "Nauru",
+        "choice4": "San Marino",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Argentina?",
+        "choice1": "Buenos Aires",
+        "choice2": "Rio de Janeiro",
+        "choice3": "Santiago",
+        "choice4": "Lima",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of Fire and Ice?",
+        "choice1": "Iceland",
+        "choice2": "Greenland",
+        "choice3": "New Zealand",
+        "choice4": "Alaska",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest city in Africa by population?",
+        "choice1": "Lagos",
+        "choice2": "Cairo",
+        "choice3": "Kinshasa",
+        "choice4": "Johannesburg",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of a Thousand Hills?",
+        "choice1": "Rwanda",
+        "choice2": "Switzerland",
+        "choice3": "Scotland",
+        "choice4": "Austria",
+        "answer": 1
+    },
+    {
+        "question": "What is the highest mountain in Africa?",
+        "choice1": "Mount Kilimanjaro",
+        "choice2": "Mount Kenya",
+        "choice3": "Mount Elgon",
+        "choice4": "Mount Meru",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of India?",
+        "choice1": "New Delhi",
+        "choice2": "Mumbai",
+        "choice3": "Kolkata",
+        "choice4": "Bangalore",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest desert in Asia?",
+        "choice1": "Gobi Desert",
+        "choice2": "Arabian Desert",
+        "choice3": "Karakum Desert",
+        "choice4": "Thar Desert",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of South Korea?",
+        "choice1": "Seoul",
+        "choice2": "Busan",
+        "choice3": "Incheon",
+        "choice4": "Daegu",
+        "answer": 1
+    },
+    {
+        "question": "Which river is the longest in the United States?",
+        "choice1": "Mississippi",
+        "choice2": "Missouri",
+        "choice3": "Colorado",
+        "choice4": "Columbia",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Peru?",
+        "choice1": "Lima",
+        "choice2": "Bogotá",
+        "choice3": "Quito",
+        "choice4": "La Paz",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest island in Europe?",
+        "choice1": "Great Britain",
+        "choice2": "Iceland",
+        "choice3": "Ireland",
+        "choice4": "Sicily",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Saudi Arabia?",
+        "choice1": "Riyadh",
+        "choice2": "Jeddah",
+        "choice3": "Mecca",
+        "choice4": "Medina",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of the Midnight Sun?",
+        "choice1": "Norway",
+        "choice2": "Sweden",
+        "choice3": "Finland",
+        "choice4": "Denmark",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of United Kingdom?",
+        "choice1": "London",
+        "choice2": "Manchester",
+        "choice3": "Birmingham",
+        "choice4": "Glasgow",
+        "answer": 1
+    },
+    {
+        "question": "Which is the longest river in South America?",
+        "choice1": "Amazon",
+        "choice2": "Parana",
+        "choice3": "Orinoco",
+        "choice4": "Magdalena",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Turkey?",
+        "choice1": "Ankara",
+        "choice2": "Istanbul",
+        "choice3": "Antalya",
+        "choice4": "Izmir",
+        "answer": 1
+    },
+    {
+        "question": "Which ocean is the smallest?",
+        "choice1": "Arctic Ocean",
+        "choice2": "Southern Ocean",
+        "choice3": "Indian Ocean",
+        "choice4": "Atlantic Ocean",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Thailand?",
+        "choice1": "Bangkok",
+        "choice2": "Chiang Mai",
+        "choice3": "Phuket",
+        "choice4": "Pattaya",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the Land of Lakes?",
+        "choice1": "Finland",
+        "choice2": "Canada",
+        "choice3": "Norway",
+        "choice4": "Sweden",
+        "answer": 2
+    },
+    {
+        "question": "What is the capital of Mexico?",
+        "choice1": "Mexico City",
+        "choice2": "Cancun",
+        "choice3": "Guadalajara",
+        "choice4": "Monterrey",
+        "answer": 1
+    }
+]

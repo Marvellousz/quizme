@@ -1,0 +1,330 @@
+[
+    {
+        "question": "Who is the author of the 'Harry Potter' book series?",
+        "choice1": "J.K. Rowling",
+        "choice2": "Stephen King",
+        "choice3": "George R.R. Martin",
+        "choice4": "Suzanne Collins",
+        "answer": 1
+    },
+    {
+        "question": "Which character is known for the catchphrase 'To infinity and beyond!'?",
+        "choice1": "Buzz Lightyear",
+        "choice2": "Woody",
+        "choice3": "Mr. Potato Head",
+        "choice4": "SpongeBob SquarePants",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Captain Jack Sparrow in the 'Pirates of the Caribbean' series?",
+        "choice1": "Johnny Depp",
+        "choice2": "Orlando Bloom",
+        "choice3": "Keira Knightley",
+        "choice4": "Geoffrey Rush",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the birthplace of the Renaissance?",
+        "choice1": "Florence",
+        "choice2": "Venice",
+        "choice3": "Rome",
+        "choice4": "Milan",
+        "answer": 1
+    },
+    {
+        "question": "Who is the creator of the animated TV series 'The Simpsons'?",
+        "choice1": "Matt Groening",
+        "choice2": "Seth MacFarlane",
+        "choice3": "Mike Judge",
+        "choice4": "Trey Parker",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young lion named Simba?",
+        "choice1": "The Lion King",
+        "choice2": "Finding Nemo",
+        "choice3": "Toy Story",
+        "choice4": "Shrek",
+        "answer": 1
+    },
+    {
+        "question": "Who is the main antagonist in the 'Harry Potter' series?",
+        "choice1": "Lord Voldemort",
+        "choice2": "Severus Snape",
+        "choice3": "Bellatrix Lestrange",
+        "choice4": "Dolores Umbridge",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series follows the lives of the employees at the Scranton branch of the Dunder Mifflin Paper Company?",
+        "choice1": "The Office",
+        "choice2": "Friends",
+        "choice3": "Parks and Recreation",
+        "choice4": "Brooklyn Nine-Nine",
+        "answer": 1
+    },
+    {
+        "question": "Who is the director of the 'Star Wars' original trilogy?",
+        "choice1": "George Lucas",
+        "choice2": "Steven Spielberg",
+        "choice3": "James Cameron",
+        "choice4": "Peter Jackson",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a clownfish named Nemo?",
+        "choice1": "Finding Nemo",
+        "choice2": "The Little Mermaid",
+        "choice3": "Shark Tale",
+        "choice4": "Finding Dory",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Iron Man in the Marvel Cinematic Universe?",
+        "choice1": "Robert Downey Jr.",
+        "choice2": "Chris Evans",
+        "choice3": "Mark Ruffalo",
+        "choice4": "Chris Hemsworth",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a group of toys that come to life when humans aren't present?",
+        "choice1": "Toy Story",
+        "choice2": "The Incredibles",
+        "choice3": "Frozen",
+        "choice4": "Moana",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Hermione Granger in the 'Harry Potter' series?",
+        "choice1": "Emma Watson",
+        "choice2": "Daisy Ridley",
+        "choice3": "Natalie Portman",
+        "choice4": "Scarlett Johansson",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series features a group of friends living in New York City?",
+        "choice1": "Friends",
+        "choice2": "The Big Bang Theory",
+        "choice3": "How I Met Your Mother",
+        "choice4": "Seinfeld",
+        "answer": 1
+    },
+    {
+        "question": "Who is the protagonist in the 'Indiana Jones' film series?",
+        "choice1": "Indiana Jones",
+        "choice2": "Han Solo",
+        "choice3": "Luke Skywalker",
+        "choice4": "Darth Vader",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a superhero who can shrink in size?",
+        "choice1": "Ant-Man",
+        "choice2": "Iron Man",
+        "choice3": "Spider-Man",
+        "choice4": "Captain America",
+        "answer": 1
+    },
+    {
+        "question": "Who provided the voice for the character of Shrek?",
+        "choice1": "Mike Myers",
+        "choice2": "Eddie Murphy",
+        "choice3": "Chris Rock",
+        "choice4": "Will Ferrell",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series is set in the fictional town of Springfield?",
+        "choice1": "The Simpsons",
+        "choice2": "Family Guy",
+        "choice3": "South Park",
+        "choice4": "Futurama",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the movie 'Jurassic Park'?",
+        "choice1": "Steven Spielberg",
+        "choice2": "George Lucas",
+        "choice3": "James Cameron",
+        "choice4": "Christopher Nolan",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young wizard named Harry Potter?",
+        "choice1": "Harry Potter and the Sorcerer's Stone",
+        "choice2": "Harry Potter and the Chamber of Secrets",
+        "choice3": "Harry Potter and the Prisoner of Azkaban",
+        "choice4": "Harry Potter and the Goblet of Fire",
+        "answer": 1
+    },
+    {
+        "question": "Who provided the voice for the character of Buzz Lightyear in the 'Toy Story' series?",
+        "choice1": "Tim Allen",
+        "choice2": "Tom Hanks",
+        "choice3": "Don Rickles",
+        "choice4": "Jim Varney",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series features a high school teacher turned methamphetamine manufacturer?",
+        "choice1": "Breaking Bad",
+        "choice2": "The Walking Dead",
+        "choice3": "Stranger Things",
+        "choice4": "Game of Thrones",
+        "answer": 1
+    },
+    {
+        "question": "Who is the protagonist in the 'Toy Story' series?",
+        "choice1": "Woody",
+        "choice2": "Buzz Lightyear",
+        "choice3": "Jessie",
+        "choice4": "Rex",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a group of superheroes trying to save the universe?",
+        "choice1": "The Avengers",
+        "choice2": "Justice League",
+        "choice3": "Guardians of the Galaxy",
+        "choice4": "X-Men",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the movie 'E.T. the Extra-Terrestrial'?",
+        "choice1": "Steven Spielberg",
+        "choice2": "George Lucas",
+        "choice3": "James Cameron",
+        "choice4": "Tim Burton",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young girl named Elsa with magical ice powers?",
+        "choice1": "Frozen",
+        "choice2": "Tangled",
+        "choice3": "Moana",
+        "choice4": "Brave",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Batman in the Christopher Nolan 'Dark Knight' trilogy?",
+        "choice1": "Christian Bale",
+        "choice2": "Ben Affleck",
+        "choice3": "Michael Keaton",
+        "choice4": "Val Kilmer",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series features a group of friends living in Pasadena, California?",
+        "choice1": "The Big Bang Theory",
+        "choice2": "Friends",
+        "choice3": "How I Met Your Mother",
+        "choice4": "Seinfeld",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Luke Skywalker in the original 'Star Wars' trilogy?",
+        "choice1": "Mark Hamill",
+        "choice2": "Harrison Ford",
+        "choice3": "Carrie Fisher",
+        "choice4": "Alec Guinness",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young girl named Moana who sets sail on a daring mission?",
+        "choice1": "Moana",
+        "choice2": "Frozen",
+        "choice3": "Brave",
+        "choice4": "Tangled",
+        "answer": 1
+    },
+    {
+        "question": "Who is the creator of the animated TV series 'Family Guy'?",
+        "choice1": "Seth MacFarlane",
+        "choice2": "Matt Groening",
+        "choice3": "Mike Judge",
+        "choice4": "Trey Parker",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a group of superheroes led by Captain America?",
+        "choice1": "The Avengers",
+        "choice2": "Justice League",
+        "choice3": "Guardians of the Galaxy",
+        "choice4": "X-Men",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the movie 'Finding Nemo'?",
+        "choice1": "Andrew Stanton",
+        "choice2": "Brad Bird",
+        "choice3": "John Lasseter",
+        "choice4": "Pete Docter",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young boy who finds out he's a wizard on his 11th birthday?",
+        "choice1": "Harry Potter and the Sorcerer's Stone",
+        "choice2": "Harry Potter and the Chamber of Secrets",
+        "choice3": "Harry Potter and the Prisoner of Azkaban",
+        "choice4": "Harry Potter and the Goblet of Fire",
+        "answer": 1
+    },
+    {
+        "question": "Who provided the voice for the character of Dory in the movie 'Finding Nemo'?",
+        "choice1": "Ellen DeGeneres",
+        "choice2": "Jennifer Aniston",
+        "choice3": "Cameron Diaz",
+        "choice4": "Amy Poehler",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series features a group of friends living in Philadelphia and running an Irish pub?",
+        "choice1": "It's Always Sunny in Philadelphia",
+        "choice2": "Friends",
+        "choice3": "How I Met Your Mother",
+        "choice4": "Seinfeld",
+        "answer": 1
+    },
+    {
+        "question": "Who played the character of Captain America in the Marvel Cinematic Universe?",
+        "choice1": "Chris Evans",
+        "choice2": "Robert Downey Jr.",
+        "choice3": "Mark Ruffalo",
+        "choice4": "Chris Hemsworth",
+        "answer": 1
+    },
+    {
+        "question": "Which movie features a young boy named Andy and his toys?",
+        "choice1": "Toy Story",
+        "choice2": "The Incredibles",
+        "choice3": "Frozen",
+        "choice4": "Moana",
+        "answer": 1
+    },
+    {
+        "question": "Who is the main antagonist in the Disney movie 'The Lion King'?",
+        "choice1": "Scar",
+        "choice2": "Jafar",
+        "choice3": "Ursula",
+        "choice4": "Gaston",
+        "answer": 1
+    },
+    {
+        "question": "Which TV series features a group of friends living in New York City and working at a coffee shop?",
+        "choice1": "Friends",
+        "choice2": "The Big Bang Theory",
+        "choice3": "How I Met Your Mother",
+        "choice4": "Seinfeld",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the movie 'The Lion King'?",
+        "choice1": "Roger Allers and Rob Minkoff",
+        "choice2": "Andrew Stanton",
+        "choice3": "Brad Bird",
+        "choice4": "John Lasseter",
+        "answer": 1
+    }
+]

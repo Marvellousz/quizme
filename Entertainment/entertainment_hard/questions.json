@@ -1,0 +1,378 @@
+[
+    {
+        "question": "Who directed the movie '2001: A Space Odyssey'?",
+        "choice1": "Stanley Kubrick",
+        "choice2": "Christopher Nolan",
+        "choice3": "Alfred Hitchcock",
+        "choice4": "Martin Scorsese",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 2019?",
+        "choice1": "Parasite",
+        "choice2": "Roma",
+        "choice3": "Shoplifters",
+        "choice4": "The Square",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'Waiting for Godot'?",
+        "choice1": "Samuel Beckett",
+        "choice2": "Harold Pinter",
+        "choice3": "Eugene O'Neill",
+        "choice4": "Arthur Miller",
+        "answer": 1
+    },
+    {
+        "question": "Which actor played the character of Vito Corleone in the movie 'The Godfather'?",
+        "choice1": "Marlon Brando",
+        "choice2": "Al Pacino",
+        "choice3": "Robert De Niro",
+        "choice4": "Joe Pesci",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the opera 'The Marriage of Figaro'?",
+        "choice1": "Wolfgang Amadeus Mozart",
+        "choice2": "Giacomo Puccini",
+        "choice3": "Richard Wagner",
+        "choice4": "Giuseppe Verdi",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1975?",
+        "choice1": "The Godfather Part II",
+        "choice2": "One Flew Over the Cuckoo's Nest",
+        "choice3": "Rocky",
+        "choice4": "Jaws",
+        "answer": 2
+    },
+    {
+        "question": "Who wrote the novel 'War and Peace'?",
+        "choice1": "Leo Tolstoy",
+        "choice2": "Fyodor Dostoevsky",
+        "choice3": "Anton Chekhov",
+        "choice4": "Vladimir Nabokov",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the opera 'Carmen'?",
+        "choice1": "Georges Bizet",
+        "choice2": "Gioachino Rossini",
+        "choice3": "Giacomo Puccini",
+        "choice4": "Richard Wagner",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1993?",
+        "choice1": "Schindler's List",
+        "choice2": "Forrest Gump",
+        "choice3": "The Silence of the Lambs",
+        "choice4": "Pulp Fiction",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the film 'The Silence of the Lambs'?",
+        "choice1": "Jonathan Demme",
+        "choice2": "David Fincher",
+        "choice3": "Steven Spielberg",
+        "choice4": "Quentin Tarantino",
+        "answer": 1
+    },
+    {
+        "question": "Which artist painted 'The Starry Night'?",
+        "choice1": "Vincent van Gogh",
+        "choice2": "Pablo Picasso",
+        "choice3": "Salvador Dalí",
+        "choice4": "Claude Monet",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'Death of a Salesman'?",
+        "choice1": "Arthur Miller",
+        "choice2": "Tennessee Williams",
+        "choice3": "Samuel Beckett",
+        "choice4": "Eugene O'Neill",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 1994?",
+        "choice1": "Pulp Fiction",
+        "choice2": "The Piano",
+        "choice3": "The Umbrellas of Cherbourg",
+        "choice4": "Fargo",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the music for the film 'The Good, the Bad and the Ugly'?",
+        "choice1": "Ennio Morricone",
+        "choice2": "John Williams",
+        "choice3": "Hans Zimmer",
+        "choice4": "Bernard Herrmann",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1955?",
+        "choice1": "Marty",
+        "choice2": "The Bridge on the River Kwai",
+        "choice3": "From Here to Eternity",
+        "choice4": "On the Waterfront",
+        "answer": 4
+    },
+    {
+        "question": "Who wrote the novel 'The Catcher in the Rye'?",
+        "choice1": "J.D. Salinger",
+        "choice2": "F. Scott Fitzgerald",
+        "choice3": "Ernest Hemingway",
+        "choice4": "Harper Lee",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the opera 'La Traviata'?",
+        "choice1": "Giuseppe Verdi",
+        "choice2": "Wolfgang Amadeus Mozart",
+        "choice3": "Giacomo Puccini",
+        "choice4": "Richard Wagner",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1967?",
+        "choice1": "The Sound of Music",
+        "choice2": "In the Heat of the Night",
+        "choice3": "Doctor Zhivago",
+        "choice4": "A Man for All Seasons",
+        "answer": 4
+    },
+    {
+        "question": "Who is the author of the novel 'Brave New World'?",
+        "choice1": "Aldous Huxley",
+        "choice2": "George Orwell",
+        "choice3": "Ray Bradbury",
+        "choice4": "Philip K. Dick",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 1974?",
+        "choice1": "The Conversation",
+        "choice2": "The Godfather Part II",
+        "choice3": "Scenes from a Marriage",
+        "choice4": "The Towering Inferno",
+        "answer": 2
+    },
+    {
+        "question": "Who composed the music for the opera 'The Barber of Seville'?",
+        "choice1": "Gioachino Rossini",
+        "choice2": "Wolfgang Amadeus Mozart",
+        "choice3": "Giuseppe Verdi",
+        "choice4": "Richard Wagner",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 2001?",
+        "choice1": "Gladiator",
+        "choice2": "A Beautiful Mind",
+        "choice3": "The Lord of the Rings: The Fellowship of the Ring",
+        "choice4": "Traffic",
+        "answer": 2
+    },
+    {
+        "question": "Who directed the film 'Citizen Kane'?",
+        "choice1": "Orson Welles",
+        "choice2": "Alfred Hitchcock",
+        "choice3": "Stanley Kubrick",
+        "choice4": "Martin Scorsese",
+        "answer": 1
+    },
+    {
+        "question": "Which artist painted 'Guernica'?",
+        "choice1": "Pablo Picasso",
+        "choice2": "Vincent van Gogh",
+        "choice3": "Salvador Dalí",
+        "choice4": "Claude Monet",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'The Importance of Being Earnest'?",
+        "choice1": "Oscar Wilde",
+        "choice2": "George Bernard Shaw",
+        "choice3": "Samuel Beckett",
+        "choice4": "Tennessee Williams",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 2003?",
+        "choice1": "Elephant",
+        "choice2": "The Pianist",
+        "choice3": "Mystic River",
+        "choice4": "Fahrenheit 9/11",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the music for the film 'Schindler's List'?",
+        "choice1": "John Williams",
+        "choice2": "Hans Zimmer",
+        "choice3": "Ennio Morricone",
+        "choice4": "Alan Silvestri",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1952?",
+        "choice1": "The Greatest Show on Earth",
+        "choice2": "High Noon",
+        "choice3": "Singin' in the Rain",
+        "choice4": "An American in Paris",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the novel '1984'?",
+        "choice1": "George Orwell",
+        "choice2": "Aldous Huxley",
+        "choice3": "Ray Bradbury",
+        "choice4": "Philip K. Dick",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the music for the opera 'Don Giovanni'?",
+        "choice1": "Wolfgang Amadeus Mozart",
+        "choice2": "Giuseppe Verdi",
+        "choice3": "Giacomo Puccini",
+        "choice4": "Richard Wagner",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1982?",
+        "choice1": "Gandhi",
+        "choice2": "E.T. the Extra-Terrestrial",
+        "choice3": "Tootsie",
+        "choice4": "Blade Runner",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the film 'Raging Bull'?",
+        "choice1": "Martin Scorsese",
+        "choice2": "Francis Ford Coppola",
+        "choice3": "Quentin Tarantino",
+        "choice4": "Steven Spielberg",
+        "answer": 1
+    },
+    {
+        "question": "Which artist painted 'The Persistence of Memory'?",
+        "choice1": "Salvador Dalí",
+        "choice2": "Pablo Picasso",
+        "choice3": "Vincent van Gogh",
+        "choice4": "Claude Monet",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'A Streetcar Named Desire'?",
+        "choice1": "Tennessee Williams",
+        "choice2": "Arthur Miller",
+        "choice3": "Samuel Beckett",
+        "choice4": "Eugene O'Neill",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 1984?",
+        "choice1": "Paris, Texas",
+        "choice2": "The Piano",
+        "choice3": "The Cook, the Thief, His Wife & Her Lover",
+        "choice4": "Pulp Fiction",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the music for the film 'The Sound of Music'?",
+        "choice1": "Richard Rodgers",
+        "choice2": "John Williams",
+        "choice3": "Andrew Lloyd Webber",
+        "choice4": "Ennio Morricone",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 1986?",
+        "choice1": "Platoon",
+        "choice2": "Aliens",
+        "choice3": "Top Gun",
+        "choice4": "Ferris Bueller's Day Off",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the film 'Apocalypse Now'?",
+        "choice1": "Francis Ford Coppola",
+        "choice2": "Stanley Kubrick",
+        "choice3": "Martin Scorsese",
+        "choice4": "Quentin Tarantino",
+        "answer": 1
+    },
+    {
+        "question": "Which artist painted 'The Scream'?",
+        "choice1": "Edvard Munch",
+        "choice2": "Claude Monet",
+        "choice3": "Pablo Picasso",
+        "choice4": "Vincent van Gogh",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'Long Day's Journey into Night'?",
+        "choice1": "Eugene O'Neill",
+        "choice2": "Arthur Miller",
+        "choice3": "Tennessee Williams",
+        "choice4": "Samuel Beckett",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 1999?",
+        "choice1": "Rosetta",
+        "choice2": "Dancer in the Dark",
+        "choice3": "All About My Mother",
+        "choice4": "The Pianist",
+        "answer": 1
+    },
+    {
+        "question": "Who composed the music for the opera 'Madama Butterfly'?",
+        "choice1": "Giacomo Puccini",
+        "choice2": "Wolfgang Amadeus Mozart",
+        "choice3": "Giuseppe Verdi",
+        "choice4": "Richard Wagner",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 2007?",
+        "choice1": "No Country for Old Men",
+        "choice2": "There Will Be Blood",
+        "choice3": "Atonement",
+        "choice4": "Juno",
+        "answer": 1
+    },
+    {
+        "question": "Who directed the film 'Gone with the Wind'?",
+        "choice1": "Victor Fleming",
+        "choice2": "David Lean",
+        "choice3": "Billy Wilder",
+        "choice4": "Alfred Hitchcock",
+        "answer": 1
+    },
+    {
+        "question": "Which artist painted 'Les Demoiselles d'Avignon'?",
+        "choice1": "Pablo Picasso",
+        "choice2": "Salvador Dalí",
+        "choice3": "Vincent van Gogh",
+        "choice4": "Claude Monet",
+        "answer": 1
+    },
+    {
+        "question": "Who wrote the play 'The Glass Menagerie'?",
+        "choice1": "Tennessee Williams",
+        "choice2": "Arthur Miller",
+        "choice3": "Samuel Beckett",
+        "choice4": "Eugene O'Neill",
+        "answer": 1
+    },
+    {
+        "question": "Which film won the Palme d'Or at the Cannes Film Festival in 2007?",
+        "choice1": "4 Months, 3 Weeks and 2 Days",
+        "choice2": "The Wind That Shakes the Barley",
+        "choice3": "The Diving Bell and the Butterfly",
+        "choice4": "4 Months, 3 Weeks and 2 Days",
+        "answer": 1
+    }
+]

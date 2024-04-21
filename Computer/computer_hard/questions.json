@@ -1,0 +1,386 @@
+[
+    {
+        "question": "What does HTML stand for?",
+        "choice1": "Hypertext Markup Language",
+        "choice2": "Hyperlinks and Text Markup Language",
+        "choice3": "Home Tool Markup Language",
+        "choice4": "Hyper Tool Markup Language",
+        "answer": 1
+    },
+    {
+        "question": "Which data structure uses LIFO (Last In, First Out) order?",
+        "choice1": "Queue",
+        "choice2": "Stack",
+        "choice3": "Tree",
+        "choice4": "Heap",
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of inserting an element into a binary search tree?",
+        "choice1": "O(log n)",
+        "choice2": "O(n)",
+        "choice3": "O(n log n)",
+        "choice4": "O(1)",
+        "answer": 1
+    },
+    {
+        "question": "What does CPU stand for?",
+        "choice1": "Central Processing Unit",
+        "choice2": "Computer Processing Unit",
+        "choice3": "Central Processor Unit",
+        "choice4": "Computer Processor Unit",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a compiler?",
+        "choice1": "To translate code written in a high-level programming language into machine code",
+        "choice2": "To execute code",
+        "choice3": "To manage memory allocation",
+        "choice4": "To debug programs",
+        "answer": 1
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case time complexity?",
+        "choice1": "Quick Sort",
+        "choice2": "Bubble Sort",
+        "choice3": "Insertion Sort",
+        "choice4": "Selection Sort",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of SQL?",
+        "choice1": "To create dynamic web pages",
+        "choice2": "To manage databases",
+        "choice3": "To style web pages",
+        "choice4": "To create animations",
+        "answer": 2
+    },
+    {
+        "question": "What does HTTP stand for?",
+        "choice1": "Hypertext Transfer Protocol",
+        "choice2": "Hypertext Transmission Protocol",
+        "choice3": "Hyperlink Transfer Protocol",
+        "choice4": "Hyperlink Transmission Protocol",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "choice1": "To provide a user interface",
+        "choice2": "To manage hardware resources",
+        "choice3": "To compile code",
+        "choice4": "To design algorithms",
+        "answer": 2
+    },
+    {
+        "question": "What is the binary representation of the number 10?",
+        "choice1": "1010",
+        "choice2": "1100",
+        "choice3": "1001",
+        "choice4": "1110",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a programming language?",
+        "choice1": "Python",
+        "choice2": "Java",
+        "choice3": "MySQL",
+        "choice4": "C++",
+        "answer": 3
+    },
+    {
+        "question": "What does DNS stand for?",
+        "choice1": "Domain Name System",
+        "choice2": "Dynamic Network Service",
+        "choice3": "Data Network Server",
+        "choice4": "Digital Naming Service",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is an example of a network topology?",
+        "choice1": "TCP/IP",
+        "choice2": "Ethernet",
+        "choice3": "Star",
+        "choice4": "HTTP",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a firewall?",
+        "choice1": "To protect against viruses",
+        "choice2": "To filter network traffic",
+        "choice3": "To manage database access",
+        "choice4": "To optimize website performance",
+        "answer": 2
+    },
+    {
+        "question": "What does IDE stand for?",
+        "choice1": "Integrated Development Environment",
+        "choice2": "Integrated Design Environment",
+        "choice3": "Interactive Development Environment",
+        "choice4": "Interactive Design Environment",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is a type of loop?",
+        "choice1": "For",
+        "choice2": "If",
+        "choice3": "Switch",
+        "choice4": "Else",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of recursion in programming?",
+        "choice1": "To reduce code complexity",
+        "choice2": "To repeat a sequence of instructions",
+        "choice3": "To optimize memory usage",
+        "choice4": "To handle hierarchical data structures",
+        "answer": 1
+    },
+    {
+        "question": "What is the time complexity of linear search?",
+        "choice1": "O(log n)",
+        "choice2": "O(n)",
+        "choice3": "O(n^2)",
+        "choice4": "O(1)",
+        "answer": 2
+    },
+    {
+        "question": "What does HTML5 introduce?",
+        "choice1": "New tags and APIs for multimedia",
+        "choice2": "Improved styling capabilities",
+        "choice3": "Enhanced security features",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is a relational database management system?",
+        "choice1": "MongoDB",
+        "choice2": "MySQL",
+        "choice3": "Redis",
+        "choice4": "Cassandra",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of object-oriented programming?",
+        "choice1": "To improve code readability",
+        "choice2": "To increase code reusability",
+        "choice3": "To model real-world entities",
+        "choice4": "All of the above",
+        "answer": 4
+    },
+    {
+        "question": "Which of the following is NOT a software development methodology?",
+        "choice1": "Agile",
+        "choice2": "Waterfall",
+        "choice3": "Scrum",
+        "choice4": "HTML",
+        "answer": 4
+    },
+    {
+        "question": "What does RAID stand for?",
+        "choice1": "Redundant Array of Independent Disks",
+        "choice2": "Random Access Integrated Drive",
+        "choice3": "Remote Access Intranet Device",
+        "choice4": "Regional Automated Information Database",
+        "answer": 1
+    },
+    {
+        "question": "What does CSS stand for?",
+        "choice1": "Cascading Style Sheets",
+        "choice2": "Computer Style Sheets",
+        "choice3": "Creative Style Sheets",
+        "choice4": "Cascading Script Sheets",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a cookie?",
+        "choice1": "To store user information",
+        "choice2": "To execute code on the client side",
+        "choice3": "To optimize database queries",
+        "choice4": "To manage network connections",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a programming paradigm?",
+        "choice1": "Procedural programming",
+        "choice2": "Object-oriented programming",
+        "choice3": "Database programming",
+        "choice4": "Functional programming",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a pointer in C programming?",
+        "choice1": "To point to the next instruction to execute",
+        "choice2": "To store memory addresses",
+        "choice3": "To perform arithmetic operations",
+        "choice4": "To manage file input and output",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a network protocol?",
+        "choice1": "To establish a connection between devices",
+        "choice2": "To manage data transmission",
+        "choice3": "To encrypt data",
+        "choice4": "To store data",
+        "answer": 2
+    },
+    {
+        "question": "What is the difference between TCP and UDP?",
+        "choice1": "TCP provides reliable, ordered delivery of data while UDP does not guarantee reliable delivery",
+        "choice2": "UDP provides reliable, ordered delivery of data while TCP does not guarantee reliable delivery",
+        "choice3": "TCP and UDP are the same",
+        "choice4": "TCP is used for video streaming while UDP is used for web browsing",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a type of cloud computing service?",
+        "choice1": "Infrastructure as a Service (IaaS)",
+        "choice2": "Platform as a Service (PaaS)",
+        "choice3": "Software as a Service (SaaS)",
+        "choice4": "Network as a Service (NaaS)",
+        "answer": 4
+    },
+    {
+        "question": "What is the purpose of version control?",
+        "choice1": "To track changes in code over time",
+        "choice2": "To manage software licenses",
+        "choice3": "To optimize database performance",
+        "choice4": "To encrypt data during transmission",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a mutex?",
+        "choice1": "To synchronize access to shared resources",
+        "choice2": "To encrypt data",
+        "choice3": "To compress files",
+        "choice4": "To allocate memory",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a linker?",
+        "choice1": "To translate source code into machine code",
+        "choice2": "To combine object files into an executable program",
+        "choice3": "To debug programs",
+        "choice4": "To manage memory allocation",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a hash function?",
+        "choice1": "To encrypt data",
+        "choice2": "To compress files",
+        "choice3": "To generate a fixed-size representation of data",
+        "choice4": "To synchronize access to shared resources",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of an API?",
+        "choice1": "To manage database access",
+        "choice2": "To provide a set of rules and protocols for building and interacting with software applications",
+        "choice3": "To store and retrieve data",
+        "choice4": "To optimize website performance",
+        "answer": 2
+    },
+    {
+        "question": "What is the time complexity of bubble sort?",
+        "choice1": "O(log n)",
+        "choice2": "O(n)",
+        "choice3": "O(n^2)",
+        "choice4": "O(1)",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a database index?",
+        "choice1": "To store data",
+        "choice2": "To optimize query performance",
+        "choice3": "To manage network connections",
+        "choice4": "To compress files",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a cache?",
+        "choice1": "To store frequently accessed data",
+        "choice2": "To manage network connections",
+        "choice3": "To compress files",
+        "choice4": "To optimize database queries",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a type of SQL join?",
+        "choice1": "Inner join",
+        "choice2": "Outer join",
+        "choice3": "Full join",
+        "choice4": "Split join",
+        "answer": 4
+    },
+    {
+        "question": "What is the purpose of a virtual machine?",
+        "choice1": "To optimize database queries",
+        "choice2": "To emulate a physical computer",
+        "choice3": "To manage network connections",
+        "choice4": "To compress files",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of garbage collection?",
+        "choice1": "To optimize database performance",
+        "choice2": "To manage memory allocation",
+        "choice3": "To synchronize access to shared resources",
+        "choice4": "To compress files",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of an API gateway?",
+        "choice1": "To manage database access",
+        "choice2": "To provide a single entry point for multiple APIs",
+        "choice3": "To optimize website performance",
+        "choice4": "To store and retrieve data",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a semaphore?",
+        "choice1": "To synchronize access to shared resources",
+        "choice2": "To manage memory allocation",
+        "choice3": "To compress files",
+        "choice4": "To store and retrieve data",
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a web server?",
+        "choice1": "To manage hardware resources",
+        "choice2": "To provide web content to clients",
+        "choice3": "To compile code",
+        "choice4": "To design algorithms",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of a reverse proxy?",
+        "choice1": "To manage database access",
+        "choice2": "To provide a single entry point for multiple APIs",
+        "choice3": "To optimize website performance",
+        "choice4": "To store and retrieve data",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a deadlock?",
+        "choice1": "To optimize database performance",
+        "choice2": "To manage memory allocation",
+        "choice3": "To synchronize access to shared resources",
+        "choice4": "To compress files",
+        "answer": 3
+    },
+    {
+        "question": "What is the purpose of a proxy server?",
+        "choice1": "To manage hardware resources",
+        "choice2": "To provide web content to clients",
+        "choice3": "To compile code",
+        "choice4": "To design algorithms",
+        "answer": 2
+    },
+    {
+        "question": "What is the purpose of an interface in Java?",
+        "choice1": "To store and retrieve data",
+        "choice2": "To define a contract for classes that implement it",
+        "choice3": "To manage memory allocation",
+        "choice4": "To compress files",
+        "answer": 2
+    }
+]

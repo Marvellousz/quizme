@@ -1,0 +1,396 @@
+[
+    {
+      "question": "What is the primary purpose of a compiler?",
+      "choice1": "To convert source code into machine code",
+      "choice2": "To execute the program",
+      "choice3": "To debug the program",
+      "choice4": "To optimize the program",
+      "answer": 1
+    },
+    {
+      "question": "What does HTML stand for?",
+      "choice1": "Hyper Text Markup Language",
+      "choice2": "Hyperlinks and Text Markup Language",
+      "choice3": "Home Tool Markup Language",
+      "choice4": "Hyperlinks and Tables Markup Language",
+      "answer": 1
+    },
+    {
+      "question": "Which programming language is commonly used for web development?",
+      "choice1": "Java",
+      "choice2": "C++",
+      "choice3": "Python",
+      "choice4": "JavaScript",
+      "answer": 4
+    },
+    {
+      "question": "What is the purpose of SQL?",
+      "choice1": "To create web pages",
+      "choice2": "To manage databases",
+      "choice3": "To design graphics",
+      "choice4": "To write operating systems",
+      "answer": 2
+    },
+    {
+      "question": "What does CPU stand for?",
+      "choice1": "Computer Processor Unit",
+      "choice2": "Central Processing Unit",
+      "choice3": "Computer Processing Unit",
+      "choice4": "Central Processor Unit",
+      "answer": 2
+    },
+    {
+      "question": "Which data structure operates in a last in, first out (LIFO) manner?",
+      "choice1": "Queue",
+      "choice2": "Stack",
+      "choice3": "Array",
+      "choice4": "Linked List",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of an if-else statement in programming?",
+      "choice1": "To repeat a block of code",
+      "choice2": "To define a function",
+      "choice3": "To make decisions",
+      "choice4": "To declare variables",
+      "answer": 3
+    },
+    {
+      "question": "What is the default sorting algorithm used by Python's sort() function?",
+      "choice1": "Quick Sort",
+      "choice2": "Bubble Sort",
+      "choice3": "Merge Sort",
+      "choice4": "Insertion Sort",
+      "answer": 1
+    },
+    {
+      "question": "What does CSS stand for?",
+      "choice1": "Cascading Style Sheets",
+      "choice2": "Computer Style Sheets",
+      "choice3": "Creative Style Sheets",
+      "choice4": "Cascading Script Styles",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of object-oriented programming?",
+      "choice1": "To create efficient algorithms",
+      "choice2": "To organize data",
+      "choice3": "To manage memory",
+      "choice4": "To model real-world entities",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is a valid variable name in Python?",
+      "choice1": "2ndVariable",
+      "choice2": "_myVariable",
+      "choice3": "variable-name",
+      "choice4": "my variable",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of a primary key in a database table?",
+      "choice1": "To uniquely identify each row in the table",
+      "choice2": "To sort the table alphabetically",
+      "choice3": "To perform calculations on table data",
+      "choice4": "To filter rows based on a condition",
+      "answer": 1
+    },
+    {
+      "question": "What is the difference between HTTP and HTTPS?",
+      "choice1": "HTTP is faster than HTTPS",
+      "choice2": "HTTP is more secure than HTTPS",
+      "choice3": "HTTPS encrypts data transmitted over the network",
+      "choice4": "HTTP is used for secure transactions",
+      "answer": 3
+    },
+    {
+      "question": "What is a binary tree?",
+      "choice1": "A tree data structure in which each node has at most two children",
+      "choice2": "A tree data structure in which each node has exactly two children",
+      "choice3": "A tree data structure in which each node has at most three children",
+      "choice4": "A tree data structure in which each node has exactly three children",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an example of a non-volatile memory?",
+      "choice1": "RAM",
+      "choice2": "ROM",
+      "choice3": "Cache memory",
+      "choice4": "Registers",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of a constructor in object-oriented programming?",
+      "choice1": "To destroy objects",
+      "choice2": "To create objects",
+      "choice3": "To manipulate objects",
+      "choice4": "To hide objects",
+      "answer": 2
+    },
+    {
+      "question": "What is the result of 5 modulo 2?",
+      "choice1": "1",
+      "choice2": "2",
+      "choice3": "0",
+      "choice4": "5",
+      "answer": 1
+    },
+    {
+      "question": "What does API stand for?",
+      "choice1": "Application Programming Interface",
+      "choice2": "Advanced Programming Interface",
+      "choice3": "Application Process Integration",
+      "choice4": "Automated Programming Interface",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a loop control statement?",
+      "choice1": "if-else",
+      "choice2": "for",
+      "choice3": "switch",
+      "choice4": "try-catch",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of a firewall?",
+      "choice1": "To protect against physical intrusions",
+      "choice2": "To prevent unauthorized access to or from a private network",
+      "choice3": "To encrypt data transmissions",
+      "choice4": "To boost network performance",
+      "answer": 2
+    },
+    {
+      "question": "What is the difference between TCP and UDP?",
+      "choice1": "TCP is connection-oriented, while UDP is connectionless",
+      "choice2": "TCP is faster than UDP",
+      "choice3": "UDP is more reliable than TCP",
+      "choice4": "TCP does not guarantee packet delivery",
+      "answer": 1
+    },
+    {
+      "question": "What does IDE stand for?",
+      "choice1": "Integrated Development Environment",
+      "choice2": "Integrated Design Environment",
+      "choice3": "Interactive Development Environment",
+      "choice4": "Internet Development Environment",
+      "answer": 1
+    },
+   
+
+ {
+      "question": "Which of the following is a valid way to declare an array in Java?",
+      "choice1": "int[] array = new int[];",
+      "choice2": "array<int> array = new array<int>();",
+      "choice3": "int array[];",
+      "choice4": "array<int> array;",
+      "answer": 3
+    },
+    {
+      "question": "What is a VPN used for?",
+      "choice1": "To enhance website performance",
+      "choice2": "To encrypt internet traffic",
+      "choice3": "To optimize search engine results",
+      "choice4": "To increase social media engagement",
+      "answer": 2
+    },
+    {
+      "question": "What is a pointer in C programming?",
+      "choice1": "A variable that stores the address of another variable",
+      "choice2": "A variable that stores the value of another variable",
+      "choice3": "A variable that stores a function",
+      "choice4": "A variable that stores an array",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of a do-while loop?",
+      "choice1": "To execute a block of code while a condition is true",
+      "choice2": "To execute a block of code at least once, then repeatedly as long as a condition is true",
+      "choice3": "To execute a block of code until a condition is true",
+      "choice4": "To execute a block of code once",
+      "answer": 2
+    },
+    {
+      "question": "What does URL stand for?",
+      "choice1": "Uniform Resource Locator",
+      "choice2": "Universal Resource Locator",
+      "choice3": "Uniform Resource Link",
+      "choice4": "Universal Resource Link",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'break' statement in a loop?",
+      "choice1": "To exit the loop and continue with the next iteration",
+      "choice2": "To skip the next iteration of the loop",
+      "choice3": "To repeat the loop from the beginning",
+      "choice4": "To terminate the loop immediately",
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is a benefit of using version control systems?",
+      "choice1": "Better code performance",
+      "choice2": "Improved collaboration",
+      "choice3": "Faster compilation times",
+      "choice4": "Reduced debugging efforts",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the keyword 'static' in Java?",
+      "choice1": "To create a dynamic variable",
+      "choice2": "To allocate memory dynamically",
+      "choice3": "To declare a variable as class-level rather than instance-level",
+      "choice4": "To deallocate memory",
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is a disadvantage of using cloud computing?",
+      "choice1": "Increased security risks",
+      "choice2": "Limited scalability",
+      "choice3": "Higher initial investment",
+      "choice4": "Reduced accessibility",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'finally' block in a try-catch-finally statement?",
+      "choice1": "To handle exceptions",
+      "choice2": "To execute code regardless of whether an exception occurs",
+      "choice3": "To specify the type of exception to catch",
+      "choice4": "To prevent exceptions from being thrown",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of a binary search algorithm?",
+      "choice1": "To search for a target value in a sorted array by repeatedly dividing the search interval in half",
+      "choice2": "To search for a target value by comparing it with each element in the array sequentially",
+      "choice3": "To sort a list of elements by repeatedly swapping adjacent elements if they are in the wrong order",
+      "choice4": "To find the maximum or minimum value in an array",
+      "answer": 1
+    },
+    {
+      "question": "What does XML stand for?",
+      "choice1": "Extensible Markup Language",
+      "choice2": "Extra Markup Language",
+      "choice3": "Extended Modulation Language",
+      "choice4": "External Markup Language",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'this' keyword in Java?",
+      "choice1": "To refer to the current instance of the class",
+      "choice2": "To refer to the superclass",
+      "choice3": "To refer to the current method",
+      "choice4": "To refer to the current package",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a valid way to create a thread in Java?",
+      "choice1": "Thread t = new Thread();",
+      "choice2": "Runnable r = new Runnable(); Thread t = new Thread(r);",
+      "choice3": "Thread t = Thread.start();",
+      "choice4": "Thread t = new Thread.start();",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'super' keyword in Java?",
+      "choice1": "To call a method from the superclass",
+      "choice2": "To invoke the constructor of the superclass",
+      "choice3": "To override a method in the superclass",
+      "choice4": "To access static members of the superclass",
+      "answer": 2
+    },
+    {
+      "question": "What is the purpose of the 'volatile' keyword in Java?",
+      "choice1": "To indicate that a variable's value may change asynchronously",
+      "choice2": "To make a variable immutable",
+      "choice3": "To optimize code execution",
+      "choice4": "To prevent memory leaks",
+      "answer": 1
+    },
+    {
+      "question": "What is the result of 2 raised to the power of 5?",
+      "choice1": "8",
+      "choice2": "16",
+      "choice3": "32",
+      "choice4": "64",
+      "answer": 3
+    },
+    {
+      "question": "What is the purpose of the 'new' keyword in Java?",
+      "choice1": "To create a new object",
+      "choice2": "To free memory",
+      "choice3": "To delete an object",
+      "choice4": "To call a constructor",
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is true about recursion?",
+      "choice1": "It is always more efficient than iteration",
+      "choice2": "It uses more memory than iteration",
+      "choice3": "It always leads to stack overflow",
+      "choice4": "It can sometimes be a simpler solution than iteration",
+      "answer": 4
+    },
+    {
+      "question": "What is the purpose of the 'implements' keyword in Java?",
+      "choice1": "To indicate that a class is abstract",
+      "choice2": "To declare that a class implements an interface",
+      "choice3": "To define a new data type",
+      "choice4": "To specify the access level of a class",
+      "answer": 2
+    },
+    {
+      "question": "What is a deadlock in computer science?",
+      "choice1": "A situation in which two or more processes are unable to proceed because each is waiting for the other",
+      "choice2": "A situation in which a program runs infinitely without halting",
+      "choice3": "A situation in which a program crashes due to memory corruption",
+      "choice4": "A situation in which a program fails to allocate memory",
+      "answer": 1
+    },
+    {
+      "question": "What does DHCP stand for?",
+      "choice1": "Dynamic Host Configuration Protocol",
+      "choice2": "Distributed Host Configuration Protocol",
+      "choice3": "Domain Host Configuration Protocol",
+      "choice4": "Digital Host Configuration Protocol",
+      "answer": 1
+    },
+    {
+      "question": "What is the purpose of the 'extends' keyword in Java?",
+      "choice1": "To indicate that a class is final",
+      "choice2": "To specify multiple inheritance",
+      "choice3": "To specify single inheritance",
+      "choice4": "To create a subclass",
+      "answer": 4
+    },
+    {
+      "question": "What is the purpose of a try-catch statement?",
+      "choice1": "To handle exceptions",
+      "choice2": "To define a new data type",
+      "choice3": "To specify the access level of a class",
+      "choice4": "To create a new object",
+      "answer": 1
+    },
+    {
+      "question": "What is the result of adding 5 to 3 and then multiplying the result by 2?",
+      "choice1": "16",
+      "choice2": "10",
+      "choice3": "13",
+      "choice4": "14",
+      "answer": 4
+    },
+    {
+      "question": "What is the purpose of the 'throws' keyword in Java?",
+      "choice1": "To throw an exception manually",
+      "choice2": "To declare that a method may throw certain types of exceptions",
+      "choice3": "To specify the access level of a class",
+      "choice4": "To catch an exception",
+      "answer": 2
+    },
+    {
+      "question": "What is a recursive function?",
+      "choice1": "A function that calls itself",
+      "choice2": "A function that is called by another function",
+      "choice3": "A function that calls multiple functions",
+      "choice4": "A function that returns multiple values",
+      "answer": 1
+    }
+  ]

@@ -1,0 +1,363 @@
+
+[
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "choice1": "Brazil",
+        "choice2": "Germany",
+        "choice3": "Argentina",
+        "choice4": "Italy",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most goals scored in a single NHL season?",
+        "choice1": "Wayne Gretzky",
+        "choice2": "Mario Lemieux",
+        "choice3": "Bobby Orr",
+        "choice4": "Gordie Howe",
+        "answer": 1
+    },
+    {
+        "question": "Who won the UEFA Champions League in 2019?",
+        "choice1": "Real Madrid",
+        "choice2": "Barcelona",
+        "choice3": "Liverpool",
+        "choice4": "Bayern Munich",
+        "answer": 3
+    },
+    {
+        "question": "Who is the only tennis player to have won each Grand Slam tournament at least twice?",
+        "choice1": "Roger Federer",
+        "choice2": "Rafael Nadal",
+        "choice3": "Serena Williams",
+        "choice4": "Novak Djokovic",
+        "answer": 1
+    },
+    {
+        "question": "Who won the NBA MVP award for the 2019-2020 season?",
+        "choice1": "LeBron James",
+        "choice2": "Giannis Antetokounmpo",
+        "choice3": "James Harden",
+        "choice4": "Kawhi Leonard",
+        "answer": 2
+    },
+    {
+        "question": "What is the term for a point scored in tennis without the opponent hitting the ball?",
+        "choice1": "Ace",
+        "choice2": "Break",
+        "choice3": "Deuce",
+        "choice4": "Fault",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most career goals in international football?",
+        "choice1": "Lionel Messi",
+        "choice2": "Pele",
+        "choice3": "Cristiano Ronaldo",
+        "choice4": "Miroslav Klose",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for a score of 1 under par on a golf hole?",
+        "choice1": "Birdie",
+        "choice2": "Eagle",
+        "choice3": "Bogey",
+        "choice4": "Par",
+        "answer": 1
+    },
+    {
+        "question": "Who won the Formula 1 World Championship in 2020?",
+        "choice1": "Lewis Hamilton",
+        "choice2": "Max Verstappen",
+        "choice3": "Sebastian Vettel",
+        "choice4": "Valtteri Bottas",
+        "answer": 1
+    },
+    {
+        "question": "Which country won the Copa America in 2019?",
+        "choice1": "Brazil",
+        "choice2": "Argentina",
+        "choice3": "Chile",
+        "choice4": "Uruguay",
+        "answer": 1
+    },
+    {
+        "question": "What is the term for a point scored in tennis without the opponent hitting the ball?",
+        "choice1": "Ace",
+        "choice2": "Break",
+        "choice3": "Deuce",
+        "choice4": "Fault",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most Olympic gold medals in swimming?",
+        "choice1": "Michael Phelps",
+        "choice2": "Mark Spitz",
+        "choice3": "Ian Thorpe",
+        "choice4": "Katie Ledecky",
+        "answer": 1
+    },
+    {
+        "question": "Which team has won the most UEFA Champions League titles?",
+        "choice1": "Real Madrid",
+        "choice2": "Barcelona",
+        "choice3": "Liverpool",
+        "choice4": "Bayern Munich",
+        "answer": 1
+    },
+    {
+        "question": "Who won the Australian Open men's singles title in 2020?",
+        "choice1": "Roger Federer",
+        "choice2": "Rafael Nadal",
+        "choice3": "Novak Djokovic",
+        "choice4": "Dominic Thiem",
+        "answer": 3
+    },
+    {
+        "question": "Which sport is associated with the term 'Pole Vault'?",
+        "choice1": "Athletics",
+        "choice2": "Swimming",
+        "choice3": "Cycling",
+        "choice4": "Rowing",
+        "answer": 1
+    },
+    {
+        "question": "Who won the Ballon d'Or in 2019?",
+        "choice1": "Lionel Messi",
+        "choice2": "Cristiano Ronaldo",
+        "choice3": "Virgil van Dijk",
+        "choice4": "Robert Lewandowski",
+        "answer": 4
+    },
+    {
+        "question": "Which country has won the most Rugby World Cups?",
+        "choice1": "Australia",
+        "choice2": "New Zealand",
+        "choice3": "South Africa",
+        "choice4": "England",
+        "answer": 2
+    },
+    {
+        "question": "Who is the only player to have won the FIFA World Cup three times as a captain?",
+        "choice1": "Pelé",
+        "choice2": "Diego Maradona",
+        "choice3": "Zinedine Zidane",
+        "choice4": "Franz Beckenbauer",
+        "answer": 4
+    },
+    {
+        "question": "Which city hosted the Winter Olympics in 2018?",
+        "choice1": "Sochi",
+        "choice2": "Vancouver",
+        "choice3": "Pyeongchang",
+        "choice4": "Salt Lake City",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for the player in basketball who is primarily responsible for directing the team's offense?",
+        "choice1": "Point Guard",
+        "choice2": "Shooting Guard",
+        "choice3": "Small Forward",
+        "choice4": "Power Forward",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first female gymnast to be awarded a perfect score of 10.0 in the Olympics?",
+        "choice1": "Nadia Comăneci",
+        "choice2": "Simone Biles",
+        "choice3": "Mary Lou Retton",
+        "choice4": "Gabby Douglas",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most medals in the history of the Summer Olympics?",
+        "choice1": "United States",
+        "choice2": "China",
+        "choice3": "Russia",
+        "choice4": "Germany",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most career Grand Slam titles in men's tennis?",
+        "choice1": "Roger Federer",
+        "choice2": "Rafael Nadal",
+        "choice3": "Novak Djokovic",
+        "choice4": "Pete Sampras",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Olympic gold medals in basketball?",
+        "choice1": "United States",
+        "choice2": "Soviet Union",
+        "choice3": "Argentina",
+        "choice4": "Spain",
+        "answer": 1
+    },
+    {
+        "question": "Who is the youngest player to win the FIFA World Player of the Year award?",
+        "choice1": "Lionel Messi",
+        "choice2": "Ronaldo",
+        "choice3": "Zinedine Zidane",
+        "choice4": "Pele",
+        "answer": 1
+    },
+    {
+        "question": "Which country won the FIFA Women's World Cup in 2019?",
+        "choice1": "United States",
+        "choice2": "Germany",
+        "choice3": "Brazil",
+        "choice4": "France",
+        "answer": 1
+    },
+    {
+        "question": "Who is the only player to have won FIFA World Cups as both a player and a coach?",
+        "choice1": "Franz Beckenbauer",
+        "choice2": "Pelé",
+        "choice3": "Diego Maradona",
+        "choice4": "Zinedine Zidane",
+        "answer": 1
+    },
+    {
+        "question": "Who won the UEFA European Championship in 2016?",
+        "choice1": "Spain",
+        "choice2": "Portugal",
+        "choice3": "France",
+        "choice4": "Germany",
+        "answer": 2
+    },
+    {
+        "question": "Who is the only player to have won the FIFA World Cup Golden Ball award three times?",
+        "choice1": "Pelé",
+        "choice2": "Diego Maradona",
+        "choice3": "Zinedine Zidane",
+        "choice4": "Lionel Messi",
+        "answer": 1
+    },
+    {
+        "question": "Which athlete holds the record for the most Olympic gold medals?",
+        "choice1": "Michael Phelps",
+        "choice2": "Usain Bolt",
+        "choice3": "Larisa Latynina",
+        "choice4": "Carl Lewis",
+        "answer": 1
+    },
+    {
+        "question": "Who is the only boxer to win world titles in eight different weight divisions?",
+        "choice1": "Manny Pacquiao",
+        "choice2": "Floyd Mayweather Jr.",
+        "choice3": "Muhammad Ali",
+        "choice4": "Mike Tyson",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most medals in the history of the Winter Olympics?",
+        "choice1": "Norway",
+        "choice2": "United States",
+        "choice3": "Germany",
+        "choice4": "Russia",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most career Grand Slam titles in women's tennis?",
+        "choice1": "Serena Williams",
+        "choice2": "Steffi Graf",
+        "choice3": "Margaret Court",
+        "choice4": "Martina Navratilova",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Rugby Union World Cups?",
+        "choice1": "New Zealand",
+        "choice2": "South Africa",
+        "choice3": "Australia",
+        "choice4": "England",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first NBA player to win MVP, Defensive Player of the Year, and Finals MVP in the same season?",
+        "choice1": "Michael Jordan",
+        "choice2": "LeBron James",
+        "choice3": "Kobe Bryant",
+        "choice4": "Hakeem Olajuwon",
+        "answer": 4
+    },
+    {
+        "question": "Who is the only athlete to have won Olympic gold medals in both the long jump and the 200m sprint?",
+        "choice1": "Carl Lewis",
+        "choice2": "Jesse Owens",
+        "choice3": "Usain Bolt",
+        "choice4": "Michael Johnson",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Cricket World Cups?",
+        "choice1": "Australia",
+        "choice2": "India",
+        "choice3": "West Indies",
+        "choice4": "England",
+        "answer": 1
+    },
+    {
+        "question": "Who holds the record for the most career home runs in Major League Baseball (MLB)?",
+        "choice1": "Hank Aaron",
+        "choice2": "Babe Ruth",
+        "choice3": "Barry Bonds",
+        "choice4": "Willie Mays",
+        "answer": 3
+    },
+    {
+        "question": "Which country has won the most Davis Cup titles?",
+        "choice1": "United States",
+        "choice2": "Australia",
+        "choice3": "France",
+        "choice4": "Spain",
+        "answer": 1
+    },
+    {
+        "question": "Who was the first athlete to run a mile in under four minutes?",
+        "choice1": "Roger Bannister",
+        "choice2": "Paavo Nurmi",
+        "choice3": "Jesse Owens",
+        "choice4": "Sebastian Coe",
+        "answer": 1
+    },
+    {
+        "question": "Which country has won the most Olympic gold medals in field hockey?",
+        "choice1": "Netherlands",
+        "choice2": "Australia",
+        "choice3": "Germany",
+        "choice4": "India",
+        "answer": 4
+    },
+    {
+        "question": "Who is the only female tennis player to have won 23 Grand Slam singles titles in the Open Era?",
+        "choice1": "Serena Williams",
+        "choice2": "Steffi Graf",
+        "choice3": "Martina Navratilova",
+        "choice4": "Margaret Court",
+        "answer": 1
+    },
+    {
+        "question": "Which team won the first Super Bowl?",
+        "choice1": "Green Bay Packers",
+        "choice2": "Kansas City Chiefs",
+        "choice3": "Dallas Cowboys",
+        "choice4": "Pittsburgh Steelers",
+        "answer": 1
+    },
+    {
+        "question": "Who is the only athlete to have won Olympic gold medals in both the 100m and 200m sprints in three consecutive Olympic Games?",
+        "choice1": "Usain Bolt",
+        "choice2": "Carl Lewis",
+        "choice3": "Jesse Owens",
+        "choice4": "Michael Johnson",
+        "answer": 1
+    },
+    {
+        "question": "Which country won the most medals in the 2016 Summer Olympics?",
+        "choice1": "United States",
+        "choice2": "China",
+        "choice3": "Great Britain",
+        "choice4": "Russia",
+        "answer": 1
+    }
+]

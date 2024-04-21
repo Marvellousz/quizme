@@ -1,0 +1,410 @@
+[
+  {
+    "question": "What does CSS stand for?",
+    "choice1": "Cascading Style Sheets",
+    "choice2": "Computer System Security",
+    "choice3": "Creative Style Syntax",
+    "choice4": "C++ Style Scripting",
+    "answer": 1
+  },
+  {
+    "question": "Which data structure uses Last In, First Out (LIFO) principle?",
+    "choice1": "Queue",
+    "choice2": "Stack",
+    "choice3": "Heap",
+    "choice4": "Tree",
+    "answer": 2
+  },
+  {
+    "question": "What does SQL stand for?",
+    "choice1": "Simple Query Language",
+    "choice2": "Structured Query Language",
+    "choice3": "Sequential Query Logic",
+    "choice4": "System Query Level",
+    "answer": 2
+  },
+  {
+    "question": "Which sorting algorithm has the worst-case time complexity of O(n^2)?",
+    "choice1": "Merge Sort",
+    "choice2": "Quick Sort",
+    "choice3": "Insertion Sort",
+    "choice4": "Bubble Sort",
+    "answer": 4
+  },
+  {
+    "question": "What is the time complexity of linear search?",
+    "choice1": "O(log n)",
+    "choice2": "O(n^2)",
+    "choice3": "O(n)",
+    "choice4": "O(1)",
+    "answer": 3
+  },
+  {
+    "question": "Which encryption technique uses a single key for both encryption and decryption?",
+    "choice1": "Symmetric Encryption",
+    "choice2": "Asymmetric Encryption",
+    "choice3": "Hashing",
+    "choice4": "RSA Encryption",
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of a constructor in object-oriented programming?",
+    "choice1": "To destruct objects",
+    "choice2": "To initialize objects",
+    "choice3": "To modify objects",
+    "choice4": "To delete objects",
+    "answer": 2
+  },
+  {
+    "question": "What is the default sorting algorithm used in Python's sort() function?",
+    "choice1": "Quick Sort",
+    "choice2": "Bubble Sort",
+    "choice3": "Merge Sort",
+    "choice4": "Insertion Sort",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a type of SQL join?",
+    "choice1": "Inner Join",
+    "choice2": "Outer Join",
+    "choice3": "Cross Join",
+    "choice4": "Reverse Join",
+    "answer": 4
+  },
+  {
+    "question": "What is the binary representation of the decimal number 25?",
+    "choice1": "10101",
+    "choice2": "11001",
+    "choice3": "11100",
+    "choice4": "10011",
+    "answer": 4
+  },
+  {
+    "question": "Which data structure is used in Depth First Search (DFS)?",
+    "choice1": "Queue",
+    "choice2": "Stack",
+    "choice3": "Heap",
+    "choice4": "Tree",
+    "answer": 2
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "choice1": "HyperText Transfer Protocol",
+    "choice2": "HyperText Transfer Package",
+    "choice3": "HyperTool Text Protocol",
+    "choice4": "HyperText Transmission Protocol",
+    "answer": 1
+  },
+  {
+    "question": "Which programming language is NOT statically typed?",
+    "choice1": "Java",
+    "choice2": "C++",
+    "choice3": "Python",
+    "choice4": "C#",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'finally' block in Java exception handling?",
+    "choice1": "To catch exceptions",
+    "choice2": "To always execute code",
+    "choice3": "To rethrow exceptions",
+    "choice4": "To handle checked exceptions",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP status code?",
+    "choice1": "200",
+    "choice2": "404",
+    "choice3": "503",
+    "choice4": "402",
+    "answer": 4
+  },
+  {
+    "question": "What does DNS stand for?",
+    "choice1": "Domain Name System",
+    "choice2": "Data Network Services",
+    "choice3": "Dynamic Network Solutions",
+    "choice4": "Digital Network Security",
+    "answer": 1
+  },
+  {
+    "question": "Which sorting algorithm has the best average-case time complexity?",
+    "choice1": "Merge Sort",
+    "choice2": "Quick Sort",
+    "choice3": "Bubble Sort",
+    "choice4": "Insertion Sort",
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'else' statement in programming?",
+    "choice1": "To execute code only if the condition is false",
+    "choice2": "To execute code only if the condition is true",
+    "choice3": "To skip the current iteration of a loop",
+    "choice4": "To break out of a loop",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid programming paradigm?",
+    "choice1": "Object-Oriented Programming",
+    "choice2": "Procedural Programming",
+    "choice3": "Functional Programming",
+    "choice4": "Concurrent Programming",
+    "answer": 4
+  },
+  {
+    "question": "What is the purpose of the 'break' statement in loops?",
+    "choice1": "To exit the loop entirely",
+    "choice2": "To skip the current iteration of the loop",
+    "choice3": "To restart the loop from the beginning",
+    "choice4": "To execute the code in the 'else' block",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid data type in Python?",
+    "choice1": "int",
+    "choice2": "double",
+    "choice3": "list",
+    "choice4": "tuple",
+    "answer": 2
+  },
+  {
+    "question": "What does IDE stand for?",
+    "choice1": "Integrated Development Environment",
+    "choice2": "Interactive Development Environment",
+    "choice3": "Intelligent Development Environment",
+    "choice4": "Integrated Design Environment",
+    "answer": 1
+  },
+  {
+    "question": "What does HTML stand for?",
+    "choice1": "Hypertext Markup Language",
+    "choice2": "Hyperlink Text Management Language",
+    "choice3": "High-Performance Text Markup Language",
+    "choice4": "Hypertext Management Language",
+    "answer": 1
+  },
+  {
+    "question": "What does TCP stand for?",
+    "choice1": "Transmission Control Protocol",
+    "choice2": "Transfer Control Protocol",
+    "choice3": "Transport Control Protocol",
+    "choice4": "Text Control Protocol",
+    "answer": 1
+  },
+  {
+    "question": "Which data structure uses First In, First Out (FIFO) principle?",
+    "choice1": "Queue",
+    "choice2": "Stack",
+    "choice3": "Heap",
+    "choice4": "Tree",
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in JavaScript?",
+    "choice1": "To refer to the current object",
+    "choice2": "To declare a variable",
+    "choice3": "To define a function",
+    "choice4": "To execute a loop",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid type of loop in programming?",
+    "choice1": "for loop",
+    "choice2": "while loop",
+    "choice3": "repeat loop",
+    "choice4": "do-while loop",
+    "answer": 3
+  },
+  {
+    "question": "What does API stand for?",
+    "choice1": "Application Programming Interface",
+    "choice2": "Application Protocol Interface",
+    "choice3": "Application Program Interface",
+    "choice4": "Application Process Interface",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid programming language?",
+    "choice1": "Java",
+    "choice2": "Ruby",
+    "choice3": "JSON",
+    "choice4": "C#",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of a primary key in a database?",
+    "choice1": "To ensure uniqueness of records",
+    "choice2": "To establish relationships between tables",
+    "choice3": "To provide indexing for faster retrieval",
+    "choice4": "To enforce data integrity",
+    "answer": 1
+  },
+  {
+    "question": "What does JVM stand for?",
+    "choice1": "Java Virtual Machine",
+    "choice2": "JavaScript Virtual Machine",
+    "choice3": "Java Visual Model",
+    "choice4": "Java Virtual Model",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP method?",
+    "choice1": "GET",
+    "choice2": "PULL",
+    "choice3": "POST",
+    "choice4": "DELETE",
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'static' keyword in Java?",
+    "choice1": "To make a variable non-modifiable",
+    "choice2": "To define a constant",
+    "choice3": "To declare a method that belongs to the class, rather than an instance of the class",
+    "choice4": "To create an object",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP header field?",
+    "choice1": "Content-Type",
+    "choice2": "Authorization",
+    "choice3": "Response-Code",
+    "choice4": "User-Agent",
+    "answer": 3
+  },
+  {
+    "question": "What does XML stand for?",
+    "choice1": "eXtensible Markup Language",
+    "choice2": "eXtreme Markup Language",
+    "choice3": "eXecutable Markup Language",
+    "choice4": "eXternal Markup Language",
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the 'yield' keyword in Python?",
+    "choice1": "To stop the execution of a generator function",
+    "choice2": "To yield control back to the caller temporarily",
+    "choice3": "To create a new thread",
+    "choice4": "To return a value from a function",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP response status code?",
+    "choice1": "200",
+    "choice2": "404",
+    "choice3": "502",
+    "choice4": "300",
+    "answer": 4
+  },
+  {
+    "question": "What is the purpose of the 'abstract' keyword in Java?",
+    "choice1": "To make a class non-instantiable",
+    "choice2": "To define a method that must be implemented by subclasses",
+    "choice3": "To declare a constant",
+    "choice4": "To create an object",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP request header field?",
+    "choice1": "User-Agent",
+    "choice2": "Host",
+    "choice3": "Status-Code",
+    "choice4": "Accept",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'virtual' keyword in C++?",
+    "choice1": "To declare a function that can be overridden in derived classes",
+    "choice2": "To allocate memory dynamically",
+    "choice3": "To define a constant",
+    "choice4": "To create an object",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP request method?",
+    "choice1": "PUT",
+    "choice2": "PATCH",
+    "choice3": "RECEIVE",
+    "choice4": "OPTIONS",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'volatile' keyword in Java?",
+    "choice1": "To make a variable non-modifiable",
+    "choice2": "To ensure that changes to a variable are visible to all threads",
+    "choice3": "To create an object",
+    "choice4": "To define a constant",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP response header field?",
+    "choice1": "Content-Type",
+    "choice2": "Server",
+    "choice3": "Response-Code",
+    "choice4": "Date",
+    "answer": 3
+  },
+  {
+    "question": "What does CDN stand for?",
+    "choice1": "Content Delivery Network",
+    "choice2": "Centralized Data Network",
+    "choice3": "Computer Development Network",
+    "choice4": "Content Distribution Network",
+    "answer": 1
+  },
+  {
+    "question": "What is the purpose of the 'extends' keyword in Java?",
+    "choice1": "To implement an interface",
+    "choice2": "To specify a superclass",
+    "choice3": "To define a constant",
+    "choice4": "To create an object",
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP response header field?",
+    "choice1": "Content-Length",
+    "choice2": "Connection",
+    "choice3": "Status-Code",
+    "choice4": "Cache-Control",
+    "answer": 3
+  },
+  {
+    "question": "What is the purpose of the 'throw' keyword in Java?",
+    "choice1": "To catch exceptions",
+    "choice2": "To declare a method that may throw an exception",
+    "choice3": "To throw an exception manually",
+    "choice4": "To define a constant",
+    "answer": 3
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP request method?",
+    "choice1": "GET",
+    "choice2": "SEARCH",
+    "choice3": "POST",
+    "choice4": "DELETE",
+    "answer": 2
+  },
+  {
+    "question": "What does URL stand for?",
+    "choice1": "Universal Resource Locator",
+    "choice2": "Uniform Resource Locator",
+    "choice3": "Universal Reference Language",
+    "choice4": "Uniform Reference Language",
+    "answer": 2
+  },
+  {
+    "question": "What is the purpose of the 'super' keyword in Java?",
+    "choice1": "To access superclass members",
+    "choice2": "To call the superclass constructor",
+    "choice3": "To create an object",
+    "choice4": "To declare a variable",
+    "answer": 1
+  },
+  {
+    "question": "Which of the following is NOT a valid HTTP request header field?",
+    "choice1": "Content-Type",
+    "choice2": "Server",
+    "choice3": "Status-Code",
+    "choice4": "Date",
+    "answer": 3
+  }
+]

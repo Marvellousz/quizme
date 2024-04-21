@@ -1,0 +1,370 @@
+[
+    {
+        "question": "Which sport uses a shuttlecock?",
+        "choice1": "Badminton",
+        "choice2": "Tennis",
+        "choice3": "Squash",
+        "choice4": "Table Tennis",
+        "answer": 1
+    },
+    {
+        "question": "What sport is played at Wimbledon?",
+        "choice1": "Golf",
+        "choice2": "Tennis",
+        "choice3": "Football",
+        "choice4": "Cricket",
+        "answer": 2
+    },
+    {
+        "question": "In what sport would you perform a slam dunk?",
+        "choice1": "Basketball",
+        "choice2": "Volleyball",
+        "choice3": "Soccer",
+        "choice4": "Rugby",
+        "answer": 1
+    },
+    {
+        "question": "Which country is famous for sumo wrestling?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "India",
+        "choice4": "Korea",
+        "answer": 2
+    },
+    {
+        "question": "What is the maximum number of players on a basketball team?",
+        "choice1": "5",
+        "choice2": "6",
+        "choice3": "7",
+        "choice4": "8",
+        "answer": 1
+    },
+    {
+        "question": "What is the main objective in volleyball?",
+        "choice1": "To score points by hitting the ball over the net",
+        "choice2": "To hit the ball with your head",
+        "choice3": "To score goals with your hands",
+        "choice4": "To run around the field",
+        "answer": 1
+    },
+    {
+        "question": "What is the scoring system in tennis called?",
+        "choice1": "Love",
+        "choice2": "Points",
+        "choice3": "Games",
+        "choice4": "Sets",
+        "answer": 3
+    },
+    {
+        "question": "Which sport is known as the 'king of sports'?",
+        "choice1": "Football",
+        "choice2": "Cricket",
+        "choice3": "Rugby",
+        "choice4": "Baseball",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the ball used in cricket?",
+        "choice1": "Basketball",
+        "choice2": "Cricket Ball",
+        "choice3": "Soccer Ball",
+        "choice4": "Tennis Ball",
+        "answer": 2
+    },
+    {
+        "question": "What is the term for a perfect score in bowling?",
+        "choice1": "Strike",
+        "choice2": "Spare",
+        "choice3": "Bowl",
+        "choice4": "Split",
+        "answer": 1
+    },
+    {
+        "question": "What sport does Cristiano Ronaldo play?",
+        "choice1": "Basketball",
+        "choice2": "Football",
+        "choice3": "Tennis",
+        "choice4": "Golf",
+        "answer": 2
+    },
+    {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "choice1": "United States",
+        "choice2": "Brazil",
+        "choice3": "China",
+        "choice4": "Australia",
+        "answer": 2
+    },
+    {
+        "question": "What is the most popular sport in India?",
+        "choice1": "Cricket",
+        "choice2": "Football",
+        "choice3": "Hockey",
+        "choice4": "Tennis",
+        "answer": 1
+    },
+    {
+        "question": "Which sport is associated with Wimbledon?",
+        "choice1": "Tennis",
+        "choice2": "Golf",
+        "choice3": "Rugby",
+        "choice4": "Cricket",
+        "answer": 1
+    },
+    {
+        "question": "What is the object used in ice hockey to hit the puck?",
+        "choice1": "Stick",
+        "choice2": "Bat",
+        "choice3": "Club",
+        "choice4": "Racket",
+        "answer": 1
+    },
+    {
+        "question": "In what sport does a player serve a 'fault'?",
+        "choice1": "Tennis",
+        "choice2": "Cricket",
+        "choice3": "Basketball",
+        "choice4": "Golf",
+        "answer": 1
+    },
+    {
+        "question": "What is the highest possible score in gymnastics?",
+        "choice1": "10",
+        "choice2": "5",
+        "choice3": "20",
+        "choice4": "15",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the biggest cycling race in the world?",
+        "choice1": "Tour de France",
+        "choice2": "Tour de Italy",
+        "choice3": "Tour de Spain",
+        "choice4": "Tour de England",
+        "answer": 1
+    },
+    {
+        "question": "In which country did the sport of archery originate?",
+        "choice1": "China",
+        "choice2": "Japan",
+        "choice3": "Turkey",
+        "choice4": "Egypt",
+        "answer": 3
+    },
+    {
+        "question": "How many players are on a soccer team?",
+        "choice1": "11",
+        "choice2": "10",
+        "choice3": "12",
+        "choice4": "9",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following sports uses a racquet?",
+        "choice1": "Soccer",
+        "choice2": "Tennis",
+        "choice3": "Basketball",
+        "choice4": "Golf",
+        "answer": 2
+    },
+    {
+        "question": "What is the main objective in golf?",
+        "choice1": "To score the lowest number of strokes",
+        "choice2": "To hit the longest drive",
+        "choice3": "To score the most goals",
+        "choice4": "To hit the ball the hardest",
+        "answer": 1
+    },
+    {
+        "question": "What is the term used for a perfect game in baseball?",
+        "choice1": "Touchdown",
+        "choice2": "Goal",
+        "choice3": "Home Run",
+        "choice4": "Strike",
+        "answer": 3
+    },
+    {
+        "question": "What sport is played at the Super Bowl?",
+        "choice1": "Baseball",
+        "choice2": "Soccer",
+        "choice3": "American Football",
+        "choice4": "Basketball",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for scoring three goals in ice hockey?",
+        "choice1": "Hat trick",
+        "choice2": "Triple Play",
+        "choice3": "Touchdown",
+        "choice4": "Strikeout",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the biggest tennis tournament in the world?",
+        "choice1": "US Open",
+        "choice2": "Australian Open",
+        "choice3": "Wimbledon",
+        "choice4": "French Open",
+        "answer": 3
+    },
+    {
+        "question": "What is the main objective in rugby?",
+        "choice1": "To score tries by carrying or kicking the ball over the opponent's goal line",
+        "choice2": "To hit the ball with a bat",
+        "choice3": "To score goals with your feet",
+        "choice4": "To hit the ball over a net",
+        "answer": 1
+    },
+    {
+        "question": "What is the term for a foul in basketball?",
+        "choice1": "Traveling",
+        "choice2": "Offside",
+        "choice3": "Foul Play",
+        "choice4": "Interference",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following is NOT a cue sport?",
+        "choice1": "Snooker",
+        "choice2": "Billiards",
+        "choice3": "Table Tennis",
+        "choice4": "Pool",
+        "answer": 3
+    },
+    {
+        "question": "What is the name of the horse racing event where three races make up the Triple Crown?",
+        "choice1": "Kentucky Derby",
+        "choice2": "Preakness Stakes",
+        "choice3": "Belmont Stakes",
+        "choice4": "Breeders' Cup",
+        "answer": 3
+    },
+    {
+        "question": "What sport is played at the Stanley Cup?",
+        "choice1": "Baseball",
+        "choice2": "Hockey",
+        "choice3": "Soccer",
+        "choice4": "Basketball",
+        "answer": 2
+    },
+    {
+        "question": "What is the term for a perfect game in bowling?",
+        "choice1": "Strike",
+        "choice2": "Spare",
+        "choice3": "Gutter Ball",
+        "choice4": "Split",
+        "answer": 1
+    },
+    {
+        "question": "What is the term for when a player scores three times in one game in soccer?",
+        "choice1": "Trick",
+        "choice2": "Touchdown",
+        "choice3": "Hat Trick",
+        "choice4": "Strikeout",
+        "answer": 3
+    },
+    {
+        "question": "What sport is known as 'The Beautiful Game'?",
+        "choice1": "Soccer",
+        "choice2": "Football",
+        "choice3": "Rugby",
+        "choice4": "Cricket",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the biggest golf tournament in the world?",
+        "choice1": "Masters Tournament",
+        "choice2": "US Open",
+        "choice3": "The Open Championship",
+        "choice4": "PGA Championship",
+        "answer": 1
+    },
+    {
+        "question": "What is the object used in rugby to score points?",
+        "choice1": "Ball",
+        "choice2": "Puck",
+        "choice3": "Goal",
+        "choice4": "Try",
+        "answer": 4
+    },
+    {
+        "question": "What is the name of the annual championship game of the National Football League (NFL)?",
+        "choice1": "Super Bowl",
+        "choice2": "World Series",
+        "choice3": "Stanley Cup",
+        "choice4": "NBA Finals",
+        "answer": 1
+    },
+    {
+        "question": "What is the name of the annual championship game of Major League Baseball (MLB)?",
+        "choice1": "World Series",
+        "choice2": "Super Bowl",
+        "choice3": "NBA Finals",
+        "choice4": "Stanley Cup",
+        "answer": 1
+    },
+    {
+        "question": "What is the term for a player being out of the game temporarily due to breaking the rules?",
+        "choice1": "Penalty",
+        "choice2": "Yellow Card",
+        "choice3": "Red Card",
+        "choice4": "Substitution",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for the equipment used by a swimmer to help them float?",
+        "choice1": "Goggles",
+        "choice2": "Floaties",
+        "choice3": "Swim Cap",
+        "choice4": "Buoy",
+        "answer": 4
+    },
+    {
+        "question": "What sport is associated with the Green Jacket?",
+        "choice1": "Golf",
+        "choice2": "Tennis",
+        "choice3": "Cricket",
+        "choice4": "Rugby",
+        "answer": 1
+    },
+    {
+        "question": "In what sport do competitors perform flips and twists on a trampoline?",
+        "choice1": "Gymnastics",
+        "choice2": "Diving",
+        "choice3": "Trampolining",
+        "choice4": "Fencing",
+        "answer": 3
+    },
+    {
+        "question": "What is the term for the player who serves the ball in tennis?",
+        "choice1": "Server",
+        "choice2": "Kicker",
+        "choice3": "Pitcher",
+        "choice4": "Thrower",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following sports is NOT played with a ball?",
+        "choice1": "Soccer",
+        "choice2": "Basketball",
+        "choice3": "Golf",
+        "choice4": "Swimming",
+        "answer": 4
+    },
+    {
+        "question": "What is the name of the cycling race held annually in France?",
+        "choice1": "Tour de France",
+        "choice2": "Tour de Italy",
+        "choice3": "Tour de Spain",
+        "choice4": "Tour de England",
+        "answer": 1
+    },
+    {
+        "question": "What sport is known as the 'sport of kings'?",
+        "choice1": "Horse Racing",
+        "choice2": "Soccer",
+        "choice3": "Cricket",
+        "choice4": "Golf",
+        "answer": 1
+    }
+]

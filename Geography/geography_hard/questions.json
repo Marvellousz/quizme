@@ -1,0 +1,333 @@
+
+[
+    {
+        "question": "What is the deepest point in the ocean?",
+        "choice1": "Mariana Trench",
+        "choice2": "Puerto Rico Trench",
+        "choice3": "Java Trench",
+        "choice4": "Philippine Trench",
+        "answer": 1
+    },
+    {
+        "question": "Which river forms part of the border between the United States and Mexico?",
+        "choice1": "Rio Grande",
+        "choice2": "Colorado River",
+        "choice3": "Mississippi River",
+        "choice4": "Missouri River",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest non-polar desert in the world?",
+        "choice1": "Sahara Desert",
+        "choice2": "Arabian Desert",
+        "choice3": "Gobi Desert",
+        "choice4": "Kalahari Desert",
+        "answer": 3
+    },
+    {
+        "question": "Which country is the largest producer of cocoa beans?",
+        "choice1": "Ivory Coast",
+        "choice2": "Ghana",
+        "choice3": "Brazil",
+        "choice4": "Indonesia",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's largest island that is not a continent?",
+        "choice1": "Greenland",
+        "choice2": "New Guinea",
+        "choice3": "Borneo",
+        "choice4": "Madagascar",
+        "answer": 2
+    },
+    {
+        "question": "Which African country has the largest population?",
+        "choice1": "Nigeria",
+        "choice2": "Egypt",
+        "choice3": "Democratic Republic of the Congo",
+        "choice4": "South Africa",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Mongolia?",
+        "choice1": "Ulaanbaatar",
+        "choice2": "Kuala Lumpur",
+        "choice3": "Astana",
+        "choice4": "Jakarta",
+        "answer": 1
+    },
+    {
+        "question": "Which river is the longest in South America?",
+        "choice1": "Amazon",
+        "choice2": "Parana",
+        "choice3": "Orinoco",
+        "choice4": "Magdalena",
+        "answer": 1
+    },
+    {
+        "question": "Which is the driest place on Earth?",
+        "choice1": "Atacama Desert",
+        "choice2": "Sahara Desert",
+        "choice3": "Gobi Desert",
+        "choice4": "Death Valley",
+        "answer": 1
+    },
+    {
+        "question": "What is the highest mountain peak in North America?",
+        "choice1": "Denali (Mount McKinley)",
+        "choice2": "Mount Logan",
+        "choice3": "Mount Saint Elias",
+        "choice4": "Pico de Orizaba",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Pearl of Africa'?",
+        "choice1": "Uganda",
+        "choice2": "Sri Lanka",
+        "choice3": "Maldives",
+        "choice4": "Bhutan",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's longest mountain range?",
+        "choice1": "Andes",
+        "choice2": "Himalayas",
+        "choice3": "Rocky Mountains",
+        "choice4": "Appalachian Mountains",
+        "answer": 1
+    },
+    {
+        "question": "Which river forms part of the border between the United States and Canada?",
+        "choice1": "St. Lawrence River",
+        "choice2": "Columbia River",
+        "choice3": "Missouri River",
+        "choice4": "Yukon River",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of a Thousand Lakes'?",
+        "choice1": "Finland",
+        "choice2": "Sweden",
+        "choice3": "Norway",
+        "choice4": "Canada",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital of Azerbaijan?",
+        "choice1": "Baku",
+        "choice2": "Yerevan",
+        "choice3": "Tbilisi",
+        "choice4": "Kiev",
+        "answer": 1
+    },
+    {
+        "question": "Which of the following countries does NOT border the Mediterranean Sea?",
+        "choice1": "Greece",
+        "choice2": "Albania",
+        "choice3": "Slovenia",
+        "choice4": "Libya",
+        "answer": 3
+    },
+    {
+        "question": "What is the highest mountain peak in Africa?",
+        "choice1": "Mount Kilimanjaro",
+        "choice2": "Mount Kenya",
+        "choice3": "Mount Elgon",
+        "choice4": "Mount Meru",
+        "answer": 1
+    },
+    {
+        "question": "Which city is known as the 'City of Seven Hills'?",
+        "choice1": "Rome",
+        "choice2": "Lisbon",
+        "choice3": "Istanbul",
+        "choice4": "Amman",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Lithuania?",
+        "choice1": "Vilnius",
+        "choice2": "Riga",
+        "choice3": "Tallinn",
+
+
+        "choice4": "Minsk",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of Fire and Ice'?",
+        "choice1": "Iceland",
+        "choice2": "Greenland",
+        "choice3": "New Zealand",
+        "choice4": "Alaska",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's largest archipelago?",
+        "choice1": "Indonesia",
+        "choice2": "Philippines",
+        "choice3": "Japan",
+        "choice4": "Maldives",
+        "answer": 1
+    },
+    {
+        "question": "Which river is known as 'The Yellow River'?",
+        "choice1": "Yangtze",
+        "choice2": "Mekong",
+        "choice3": "Yellow River",
+        "choice4": "Huai River",
+        "answer": 3
+    },
+    {
+        "question": "Which is the highest waterfall in the world?",
+        "choice1": "Angel Falls",
+        "choice2": "Victoria Falls",
+        "choice3": "Niagara Falls",
+        "choice4": "Iguaçu Falls",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Paraguay?",
+        "choice1": "Asunción",
+        "choice2": "La Paz",
+        "choice3": "Lima",
+        "choice4": "Buenos Aires",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of the Thunder Dragon'?",
+        "choice1": "Nepal",
+        "choice2": "Bhutan",
+        "choice3": "Thailand",
+        "choice4": "Myanmar",
+        "answer": 2
+    },
+    {
+        "question": "What is the largest reef system in the world?",
+        "choice1": "Great Barrier Reef",
+        "choice2": "Belize Barrier Reef",
+        "choice3": "Red Sea Coral Reef",
+        "choice4": "Tubbataha Reef",
+        "answer": 1
+    },
+    {
+        "question": "Which is the largest desert in Australia?",
+        "choice1": "Great Victoria Desert",
+        "choice2": "Great Sandy Desert",
+        "choice3": "Gibson Desert",
+        "choice4": "Simpson Desert",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Ecuador?",
+        "choice1": "Quito",
+        "choice2": "Lima",
+        "choice3": "Bogotá",
+        "choice4": "Sucre",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of Smiles'?",
+        "choice1": "Thailand",
+        "choice2": "Vietnam",
+        "choice3": "Laos",
+        "choice4": "Cambodia",
+        "answer": 1
+    },
+    {
+        "question": "What is the largest city in South America by population?",
+        "choice1": "São Paulo",
+        "choice2": "Buenos Aires",
+        "choice3": "Lima",
+        "choice4": "Rio de Janeiro",
+        "answer": 1
+    },
+    {
+        "question": "Which country has the longest coastline in the world?",
+        "choice1": "Canada",
+        "choice2": "Russia",
+        "choice3": "Australia",
+        "choice4": "Brazil",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's largest inland body of water?",
+        "choice1": "Caspian Sea",
+        "choice2": "Lake Superior",
+        "choice3": "Lake Baikal",
+        "choice4": "Great Bear Lake",
+        "answer": 1
+    },
+    {
+        "question": "Which is the highest peak in South America?",
+        "choice1": "Mount Aconcagua",
+        "choice2": "Mount Chimborazo",
+        "choice3": "Mount Huascarán",
+        "choice4": "Mount Cotopaxi",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Cambodia?",
+        "choice1": "Phnom Penh",
+        "choice2": "Vientiane",
+        "choice3": "Bangkok",
+        "choice4": "Hanoi",
+        "answer": 1
+    },
+    {
+        "question": "Which island is known as the 'Island of Gods'?",
+        "choice1": "Bali",
+        "choice2": "Java",
+        "choice3": "Sumatra",
+        "choice4": "Borneo",
+        "answer": 1
+    },
+    {
+        "question": "What is the world's largest river delta?",
+        "choice1": "Ganges Delta",
+        "choice2": "Niger Delta",
+        "choice3": "Amazon Delta",
+        "choice4": "Mississippi Delta",
+        "answer": 3
+    },
+    {
+        "question": "Which is the largest lake in Central America?",
+        "choice1": "Lake Nicaragua",
+        "choice2": "Lake Managua",
+        "choice3": "Lake Titicaca",
+        "choice4": "Lake Atitlán",
+        "answer": 1
+    },
+    {
+        "question": "What is the capital city of Slovakia?",
+        "choice1": "Bratislava",
+        "choice2": "Budapest",
+        "choice3": "Prague",
+        "choice4": "Warsaw",
+        "answer": 1
+    },
+    {
+        "question": "Which country is known as the 'Land of the Midnight Sun'?",
+        "choice1": "Norway",
+        "choice2": "Sweden",
+        "choice3": "Finland",
+        "choice4": "Denmark",
+        "answer": 3
+    },
+    {
+        "question": "What is the largest saltwater lake in the world?",
+        "choice1": "Caspian Sea",
+        "choice2": "Lake Superior",
+        "choice3": "Lake Victoria",
+        "choice4": "Lake Baikal",
+        "answer": 1
+    },
+    {
+        "question": "Which river is known as 'The Blue Nile'?",
+        "choice1": "Nile",
+        "choice2": "Congo",
+        "choice3": "Ganges",
+        "choice4": "Yangtze",
+        "answer": 1
+    }
+]
