@@ -51,15 +51,18 @@ nav ul li a:hover {
   justify-content: left;
   height: 150px;
   margin-left: 0px;
-  font-size: 100px;
+  font-size: 130px;
   margin-bottom: none;
   margin-bottom: 0px;
   cursor: default;
+  background: linear-gradient(to right, #FFFFFF, #0087EB);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text; 
 }
 .main h2 {
   display: flex;
   justify-content: left;
-  font-size: 40px;
+  font-size: 70px;
   margin-left: 0px;
   margin-top: 0px;
   font-weight: 500;
@@ -76,9 +79,9 @@ nav ul li a:hover {
   background-color: #0455bf;
   padding: 10px 25px 10px 25px;
   margin-left: 0px;
-  border-radius: 10px;
-  height: 64.667px;
-  width: 332px;
+  border-radius: 30px;
+  height: 50px;
+  width: 250px;
 }
 
 
@@ -144,7 +147,7 @@ nav ul li a:hover {
 .main_2 {
   display: flex;
   justify-content: center;
-  background-color: rgba(4, 85, 191, 1);
+  text-align: center;
   margin-top: 200px;
   padding-top: 100px;
   padding-bottom: 100px;
@@ -275,18 +278,17 @@ input[type="radio"] {
   justify-content: center;
   align-items: center;
   margin-bottom: 100px;
-  background-color: black;
 }
 .main_5_img {
   margin-right: 30px;
   margin-left: 500px;
   margin-top: 100px;
 }
-.main_5_text {
-  margin-top: 100px;
+/* .main_5_text {
+   margin-top: 100px;
   margin-left: 30px;
-  margin-right: 450px;
-}
+  margin-right: 450px; 
+}  */
 
 .main_5_text h3 {
   font-size: 56px;
@@ -388,6 +390,7 @@ footer {
   margin: auto;
   width: 50%;
   font-size: 3rem;
+  text-align: center;
 }
 .aboutus_main h3 {
   font-weight: bold;
