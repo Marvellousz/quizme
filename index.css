@@ -75,16 +75,18 @@ nav ul li a:hover {
   text-decoration: none;
   width: 310px;
   font-size: 39.38px;
-  border: 2px solid white;
   background-color: #0455bf;
   padding: 10px 25px 10px 25px;
   margin-left: 0px;
-  border-radius: 30px;
-  height: 50px;
+  border-radius: 50px;
+  height: 60px;
   width: 250px;
+  border: 1px solid white;
 }
 
-
+.main .start_investing:hover {
+  border: 3px solid white;
+}
 
 .form_main {
   margin-top: 100px;
@@ -194,7 +196,7 @@ nav ul li a:hover {
   padding: 10px 12%;
   text-align: center;
   font-size: 18px;
-  background-color: white;
+  background-image: url("images/night.png");
   color: #1b1b1b;
 }
 
@@ -207,9 +209,11 @@ nav ul li a:hover {
 }
 .faq h1 {
   font-size: 45px;
-  margin-left: 135px;
+  margin-left: 85px;
+  text-align: center;
   height: 26px;
   margin-top: 0px;
+  color: white;
 }
 
 .accordion {
@@ -230,12 +234,17 @@ nav ul li a:hover {
   padding: 20px;
   font-size: 18px;
   font-weight: 500;
-  background: white;
+  color: white;
   margin-bottom: 2px;
   cursor: pointer;
   position: relative;
   border-style: solid;
   border-width: 2px;
+  border: 1px solid white;
+}
+
+.accordion li label:hover {
+  border: 3px solid white;
 }
 
 label::after {
@@ -252,7 +261,7 @@ input[type="radio"] {
 
 .accordion .content {
   border: 2px black;
-  background: white;
+  color: white;
   text-align: left;
   padding: 0 20px;
   max-height: 0;
@@ -309,6 +318,12 @@ input[type="radio"] {
   border-style: none;
   background-color: #1f7ae0;
 }
+
+.sounds_amazing button:hover {
+  color: white;
+  border: 1px solid white;
+}
+
 .main_5_text h3 {
   font-size: 56px;
 }
@@ -404,7 +419,6 @@ footer {
 
 .aboutus_main {
   padding-top: 100px;
-  padding-bottom: 200px;
   color: grey;
   margin: auto;
   width: 50%;
