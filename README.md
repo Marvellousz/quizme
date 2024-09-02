@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PranavMurali-Coder/QuizMe.git
+   git clone https://github.com/Marvellousz/QuizMe.git
 
 2. Open the project folder:
    
