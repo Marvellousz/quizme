@@ -1,4 +1,4 @@
-# QuizMe Website
+# quizme website
 
 Welcome to QuizMe, a website for interactive quizzes!
 
